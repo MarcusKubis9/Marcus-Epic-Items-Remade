@@ -1,0 +1,124 @@
+"Item"
+{
+	"Type"		"ITEM_SECONDARY_OBSERVATION_ROOM"
+	"Editor"
+	{
+		"SubType"
+		{
+			"Name"		"Broken Observation Room"
+			"Model"
+			{
+				"ModelName"		"observation_office_1x1.3ds"
+			}
+			"Palette"
+			{
+				"Tooltip"		"BROKEN OBSERVATION ROOM"
+				"Image"			"palette/drgregs/broken_observation_room.png"
+				"Position"	"3 5 0"
+			}
+			"Sounds"
+			{
+				"SOUND_CREATED"					"P2Editor.PlaceOther"
+				"SOUND_EDITING_ACTIVATE"		"P2Editor.ExpandOther"
+				"SOUND_EDITING_DEACTIVATE"		"P2Editor.CollapseOther"
+				"SOUND_DELETED"					"P2Editor.RemoveOther"
+			}
+		}
+		"MovementHandle"        	"HANDLE_4_DIRECTIONS"
+//		"InvalidSurface"		"CEILING FLOOR"
+		"DesiredFacing"			"DESIRES_UP"
+	}
+	"Properties"
+	{
+		"ConnectionCount"
+		{
+			"DefaultValue"	"0"
+			"Index"	"1"
+		}
+		"StartReversed"
+		{
+			"DefaultValue" "0"
+			"Index" "2"
+		}
+		
+	}
+	"Exporting"
+	{
+		"Instances"
+		{
+			"0"
+			{
+				"Name" "instances/BEE2/drgregs/broken_observation_room/broken_observation_room_0.vmf"
+				"EntityCount"	"0"
+				"BrushCount"	"0" 
+				"BrushSideCount"	"0"
+			}
+			"1"
+			{
+				"Name" "instances/BEE2/beepkg/broken_observation_room/broken_observation_room_1.vmf"
+				"EntityCount"	"0"
+				"BrushCount"	"0" 
+				"BrushSideCount"	"0"
+			}
+			"2"
+			{
+				"Name" "instances/BEE2/beepkg/broken_observation_room/broken_observation_room_2.vmf"
+				"EntityCount"	"0"
+				"BrushCount"	"0" 
+				"BrushSideCount"	"0"
+			}
+			"3"
+			{
+				"Name" "instances/BEE2/beepkg/broken_observation_room/broken_observation_room_3.vmf"
+				"EntityCount"	"0"
+				"BrushCount"	"0" 
+				"BrushSideCount"	"0"
+			}
+			"4"
+			{
+				"Name" "instances/BEE2/beepkg/broken_observation_room/broken_observation_room_4.vmf"
+				"EntityCount"	"0"
+				"BrushCount"	"0" 
+				"BrushSideCount"	"0"
+			}
+			"5"
+			{
+				"Name" "instances/BEE2/beepkg/broken_observation_room/broken_observation_room_5.vmf"
+				"EntityCount"	"0"
+				"BrushCount"	"0" 
+				"BrushSideCount"	"0"
+			}
+		}
+
+		"TargetName"		"or"
+		"Offset"		"64 64 64"
+		"OccupiedVoxels"
+		{
+			"Voxel"
+			{
+				"Pos"		"0 0 0"
+				"Surface"
+				{
+					"Normal"	"0 0 1"
+				}
+			}
+		}
+		"Collisions" 
+			{
+			"BBox"
+				{
+				"Type" "SOLID"
+				"Pos1" "-64 -64 -60"
+				"Pos2" "64 64 -192"
+				}
+			}
+		"EmbeddedVoxels"
+		{
+			"Volume"
+			{
+				"Pos1"		"1 -1 0"
+				"Pos2"		"-1 1 -1"
+			}
+		}
+	}
+}
