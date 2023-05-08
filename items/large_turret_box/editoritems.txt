@@ -8,11 +8,11 @@
 		 
 		"SubType"
 		{
-			"Name"				"Turret Box"
+			"Name"				"Large Turret Box"
 			"Model" { "ModelName"		"buttoncube.3ds" }
 			"Palette"
 			{
-				"Tooltip"		"TURRET BOX"
+				"Tooltip"		"LARGE TURRET BOX"
 				"Image"			"palette/drgregs/turret_box.png"
 				"Position"		"4 2 0"
 			}
@@ -31,7 +31,7 @@
 			}
 		}
 		
-		"MovementHandle"	"HANDLE_36_DIRECTIONS"
+		"MovementHandle"	"HANDLE_4_DIRECTIONS"
 		"InvalidSurface" 	""
 		"DesiredFacing"		"DESIRES_ANYTHING"
 		"CanAnchorOnGoo"	"0"
@@ -60,42 +60,7 @@
 		{
 			"0"
 			{
-				"Name" "instances/BEE2/drgregs/turret_box/turret_box_0.vmf"
-				"EntityCount"	"0"
-				"BrushCount"	"0" 
-				"BrushSideCount"	"0"
-			}
-			"1"
-			{
-				"Name" "instances/BEE2/drgregs/turret_box/turret_box_1.vmf"
-				"EntityCount"	"0"
-				"BrushCount"	"0" 
-				"BrushSideCount"	"0"
-			}
-			"2"
-			{
-				"Name" "instances/BEE2/drgregs/turret_box/turret_box_2.vmf"
-				"EntityCount"	"0"
-				"BrushCount"	"0" 
-				"BrushSideCount"	"0"
-			}
-			"3"
-			{
-				"Name" "instances/BEE2/drgregs/turret_box/turret_box_3.vmf"
-				"EntityCount"	"0"
-				"BrushCount"	"0" 
-				"BrushSideCount"	"0"
-			}
-			"4"
-			{
-				"Name" "instances/BEE2/drgregs/turret_box/turret_box_4.vmf"
-				"EntityCount"	"0"
-				"BrushCount"	"0" 
-				"BrushSideCount"	"0"
-			}
-			"5"
-			{
-				"Name" "instances/BEE2/drgregs/turret_box/turret_box_5.vmf"
+				"Name" "instances/BEE2/drgregs/large_turret_box/turret_box_0.vmf"
 				"EntityCount"	"0"
 				"BrushCount"	"0" 
 				"BrushSideCount"	"0"

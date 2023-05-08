@@ -4,11 +4,23 @@
 	"Description" 
 		{
 		"" "A crate that can be picked up. Does not press buttons."
-		"" ""
-		"" "__Start Reversed__ to make it two crates next to each other."
+		""  " "
+		""  " "
+		""  "* Weighted is 1 crate."
+		""  "* Companion is 2 crates."
+		""  "* Reflection is 3 crates."
+		""  "* Edgeless is a vertical crate."
+		""  "* Franken is a vertical rotated crate."
 	}
+	"all_name"		"CRATES"
+	"all_icon"		"drgregs/allcrate.vtf"
 	"Icon"
-	{
-		"0" "drgregs/crate.png"
+		{
+			"all"	"drgregs/allcrate.vtf"
+			"0"		"drgregs/crate.vtf"
+			"1"		"drgregs/2crate.vtf"
+			"2"		"drgregs/3crate.vtf"
+			"3"		"drgregs/4crate.vtf"
+			"4"		"drgregs/5crate.vtf"
+		}
 	}
-}

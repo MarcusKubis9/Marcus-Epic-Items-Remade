@@ -5,32 +5,172 @@
 	"Type"	"CRATE"
 	"Editor"
 	{
-		 
+		"SubTypeProperty"		"CubeType"
 		"SubType"
 		{
 			"Name"				"Crate"
-			"Model" { "ModelName"		"cube.3ds" }
+			"Model"
+				{
+				"ModelName"		"cube.3ds"
+				}
 			"Palette"
-			{
-				"Tooltip"		"CRATE"
-				"Image"			"palette/drgregs/crate.png"
-				"Position"		"4 2 0"
-			}
+				{
+				"Tooltip"	"CRATE"
+				"Image"		"palette/drgregs/crate.vtf"
+				}
 			"Sounds"
-			{
-			"SOUND_CREATED"			"P2Editor.PlaceOther"
-			"SOUND_EDITING_ACTIVATE"	"P2Editor.ExpandOther"
-			"SOUND_EDITING_DEACTIVATE"	"P2Editor.CollapseOther"
-			"SOUND_DELETED"			"P2Editor.RemoveOther"
-			}
+				{
+				"SOUND_CREATED"					"P2Editor.PlaceCube"
+				"SOUND_EDITING_ACTIVATE"		"P2Editor.ExpandCube"
+				"SOUND_EDITING_DEACTIVATE"		"P2Editor.CollapseCube"
+				"SOUND_DELETED"					"P2Editor.RemoveCube"
+				}
 			"Animations"
-			{
-				"ANIM_IDLE"			"0"
-				"ANIM_EDITING_ACTIVATE"		"1"
-				"ANIM_EDITING_DEACTIVATE"	"2"
+				{
+				"ANIM_IDLE"							"0"
+				"ANIM_EDITING_ACTIVATE"				"2"
+				"ANIM_EDITING_DEACTIVATE"			"3"
+				"ANIM_FALLING_IDLE"					"1"
+				"ANIM_FALLING_EDITING_ACTIVATE"		"4"
+				"ANIM_FALLING_EDITING_DEACTIVATE"	"5"
+				"ANIM_FALLING_TO_GROUND"			"7"
+				"ANIM_GROUND_TO_FALLING"			"9"
+				"ANIM_FALLING_TO_GROUND_EDITING"	"6"
+				"ANIM_GROUND_TO_FALLING_EDITING"	"8"
+				}
 			}
-		}
-		
+		"SubType"
+			{
+			"Name"		"2 Crates"
+			"Model"
+				{
+				"ModelName"		"cubecompanion.3ds"
+				}
+			"Palette"
+				{
+				"Tooltip"	"2 CRATES"
+				"Image"		"palette/drgregs/2crate.vtf"
+				}
+			"Sounds"
+				{
+				"SOUND_CREATED"					"P2Editor.PlaceCube"
+				"SOUND_EDITING_ACTIVATE"		"P2Editor.ExpandCube"
+				"SOUND_EDITING_DEACTIVATE"		"P2Editor.CollapseCube"
+				"SOUND_DELETED"					"P2Editor.RemoveCube"
+				}
+			"Animations"
+				{
+				"ANIM_IDLE"							"0"
+				"ANIM_EDITING_ACTIVATE"				"2"
+				"ANIM_EDITING_DEACTIVATE"			"3"
+				"ANIM_FALLING_IDLE"					"1"
+				"ANIM_FALLING_EDITING_ACTIVATE"		"4"
+				"ANIM_FALLING_EDITING_DEACTIVATE"	"5"
+				"ANIM_FALLING_TO_GROUND"			"7"
+				"ANIM_GROUND_TO_FALLING"			"9"
+				"ANIM_FALLING_TO_GROUND_EDITING"	"6"
+				"ANIM_GROUND_TO_FALLING_EDITING"	"8"
+				}
+			}
+		"SubType"
+			{
+			"Name"		"3 Crates"
+			"Model"
+				{
+				"ModelName"		"bee2_block_4x2x2.3ds"
+				}
+			"Palette"
+				{
+				"Tooltip"	"3 CRATES"
+				"Image"		"palette/drgregs/3crate.vtf"
+				}
+			"Sounds"
+				{
+				"SOUND_CREATED"					"P2Editor.PlaceCube"
+				"SOUND_EDITING_ACTIVATE"		"P2Editor.ExpandCube"
+				"SOUND_EDITING_DEACTIVATE"		"P2Editor.CollapseCube"
+				"SOUND_DELETED"					"P2Editor.RemoveCube"
+				}
+			"Animations"
+				{
+				"ANIM_IDLE"							"0"
+				"ANIM_EDITING_ACTIVATE"				"2"
+				"ANIM_EDITING_DEACTIVATE"			"3"
+				"ANIM_FALLING_IDLE"					"1"
+				"ANIM_FALLING_EDITING_ACTIVATE"		"4"
+				"ANIM_FALLING_EDITING_DEACTIVATE"	"5"
+				"ANIM_FALLING_TO_GROUND"			"7"
+				"ANIM_GROUND_TO_FALLING"			"9"
+				"ANIM_FALLING_TO_GROUND_EDITING"	"6"
+				"ANIM_GROUND_TO_FALLING_EDITING"	"8"
+				}
+			}
+		"SubType"
+			{
+			"Name"		"VERTICAL CRATE"
+			"Model"
+				{
+				"ModelName"		"cubelaser.3ds"
+				}
+			"Palette"
+				{
+				"Tooltip"	"Vertical Crate"
+				"Image"		"palette/drgregs/4crate.vtf"
+				}
+			"Sounds"
+				{
+				"SOUND_CREATED"					"P2Editor.PlaceCube"
+				"SOUND_EDITING_ACTIVATE"		"P2Editor.ExpandCube"
+				"SOUND_EDITING_DEACTIVATE"		"P2Editor.CollapseCube"
+				"SOUND_DELETED"					"P2Editor.RemoveCube"
+				}
+			"Animations"
+				{
+				"ANIM_IDLE"							"0"
+				"ANIM_EDITING_ACTIVATE"				"2"
+				"ANIM_EDITING_DEACTIVATE"			"3"
+				"ANIM_FALLING_IDLE"					"1"
+				"ANIM_FALLING_EDITING_ACTIVATE"		"4"
+				"ANIM_FALLING_EDITING_DEACTIVATE"	"5"
+				"ANIM_FALLING_TO_GROUND"			"7"
+				"ANIM_GROUND_TO_FALLING"			"9"
+				"ANIM_FALLING_TO_GROUND_EDITING"	"6"
+				"ANIM_GROUND_TO_FALLING_EDITING"	"8"
+				}
+			}
+		"SubType"
+			{
+			"Name"		"VERTICAL ROTATED CRATE"
+			"Model"
+				{
+				"ModelName"		"frankenturret.3ds"
+				}
+			"Palette"
+				{
+				"Tooltip"	"Vertical Rotated Crate"
+				"Image"		"palette/drgregs/5crate.vtf"
+				}
+			"Sounds"
+				{
+				"SOUND_CREATED"					"P2Editor.PlaceCube"
+				"SOUND_EDITING_ACTIVATE"		"P2Editor.ExpandCube"
+				"SOUND_EDITING_DEACTIVATE"		"P2Editor.CollapseCube"
+				"SOUND_DELETED"					"P2Editor.RemoveCube"
+				}
+			"Animations"
+				{
+				"ANIM_IDLE"							"0"
+				"ANIM_EDITING_ACTIVATE"				"2"
+				"ANIM_EDITING_DEACTIVATE"			"3"
+				"ANIM_FALLING_IDLE"					"1"
+				"ANIM_FALLING_EDITING_ACTIVATE"		"4"
+				"ANIM_FALLING_EDITING_DEACTIVATE"	"5"
+				"ANIM_FALLING_TO_GROUND"			"7"
+				"ANIM_GROUND_TO_FALLING"			"9"
+				"ANIM_FALLING_TO_GROUND_EDITING"	"6"
+				"ANIM_GROUND_TO_FALLING_EDITING"	"8"
+				}
+			}
 		"MovementHandle"	"HANDLE_8_POSITIONS"
 		"InvalidSurface" 	""
 		"DesiredFacing"		"DESIRES_ANYTHING"
@@ -44,10 +184,10 @@
 			"DefaultValue"	"0"
 			"Index"	"1"
 		}
-		"ButtonType"
+		"CubeType"
 		{
-		"DefaultValue"    "1"
-		"Index"        "2"
+		"DefaultValue"  "0"
+		"Index"         "1"
 		}
 	}
 	"Exporting"
@@ -57,42 +197,35 @@
 			"0"
 			{
 				"Name" "instances/BEE2/drgregs/crate/crate_0.vmf"
-				"EntityCount"	"0"
+				"EntityCount"	"1"
 				"BrushCount"	"0" 
 				"BrushSideCount"	"0"
 			}
 			"1"
 			{
-				"Name" "instances/BEE2/drgregs/crate/crate_0.vmf"
-				"EntityCount"	"0"
+				"Name" "instances/BEE2/drgregs/crate/crate_1.vmf"
+				"EntityCount"	"2"
 				"BrushCount"	"0" 
 				"BrushSideCount"	"0"
 			}
 			"2"
 			{
-				"Name" "instances/BEE2/drgregs/crate/crate_1.vmf"
-				"EntityCount"	"0"
+				"Name" "instances/BEE2/drgregs/crate/crate_2.vmf"
+				"EntityCount"	"3"
 				"BrushCount"	"0" 
 				"BrushSideCount"	"0"
 			}
 			"3"
 			{
-				"Name" "instances/BEE2/drgregs/crate/crate_1.vmf"
-				"EntityCount"	"0"
+				"Name" "instances/BEE2/drgregs/crate/crate_3.vmf"
+				"EntityCount"	"1"
 				"BrushCount"	"0" 
 				"BrushSideCount"	"0"
 			}
 			"4"
 			{
-				"Name" "instances/BEE2/drgregs/crate/crate_2.vmf"
-				"EntityCount"	"0"
-				"BrushCount"	"0" 
-				"BrushSideCount"	"0"
-			}
-			"5"
-			{
-				"Name" "instances/BEE2/drgregs/crate/crate_2.vmf"
-				"EntityCount"	"0"
+				"Name" "resources/BEE2/drgregs/crate/crate_4.vmf"
+				"EntityCount"	"1"
 				"BrushCount"	"0" 
 				"BrushSideCount"	"0"
 			}

@@ -3,15 +3,20 @@
 	"Authors" "Drgregs"
    "Description" 
 		{
-		"" "Joke turrets that do not kill the player. Use cube type to select the turret."
+		"" "Fake turrets that do not kill the player. Use button type to select the turret."
 		"" ""
-		"" "* __Standard__: Turret with no bullets"
-		"" "* __Companion__: Singing Turret"
-		"" "* __Reflective__: Turret Box"
-		"" "* __Sphere__: Prima Donna Turret"
+		"" "* __BUTTON__: Turret with no bullets"
+		"" "* __CUBE__: Singing Turret"
+		"" "* __SPHERE__: Turret Box"
+//
+//
+	"all_name"		"FAKE TURRETS"
+	"all_icon"		"palette/grouped/portal_buttons.vtf"
 	}
 	"Icon"
 	{
 		"0" "drgregs/joke_turret.png"
+		"1" "drgregs/singing_turret.png"
+		"2" "drgregs/box_turret.png"
 	}
 }

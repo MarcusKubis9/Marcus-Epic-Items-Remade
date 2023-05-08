@@ -31,7 +31,7 @@
 			}
 		}
 		
-		"MovementHandle"	"HANDLE_4_DIRECTIONS"
+		"MovementHandle"	"HANDLE_NONE"
 		"InvalidSurface" 	""
 		"DesiredFacing"		"DESIRES_ANYTHING"
 		"CanAnchorOnGoo"	"0"

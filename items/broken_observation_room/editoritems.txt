@@ -35,11 +35,6 @@
 			"DefaultValue"	"0"
 			"Index"	"1"
 		}
-		"StartReversed"
-		{
-			"DefaultValue" "0"
-			"Index" "2"
-		}
 		
 	}
 	"Exporting"

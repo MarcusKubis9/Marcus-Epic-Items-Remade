@@ -9,7 +9,7 @@
 		"SubType"
 		{
 			"Name"				"wall1"
-			"Model" { "ModelName"		"buttoncube.3ds" }
+			"Model" { "ModelName"		"bee2_block_quarter_tile_1.3ds" }
 			"Palette"
 			{
 				"Tooltip"		"WALL1"

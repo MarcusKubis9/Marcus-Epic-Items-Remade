@@ -103,45 +103,23 @@
 }
 "Item"
 {
-	"ID"  "TURRET_BOX"
+	"ID"  "LARGE_TURRET_BOX"
 	"Version"
 	{
 		"Styles"
 		{
-			"BEE2_CLEAN" "turret_box"
+			"BEE2_CLEAN" "large_turret_box"
 		}
 	}
 }
 "Item"
 {
-	"ID"  "PORTAL_GUN_STAIRS"
-	"Version"
-	{
-		"Styles"
-		{
-			"BEE2_CLEAN" "portal_gun_stairs"
-		}
-	}
-}
-"Item"
-{
-	"ID"  "LADDER (DECORATIONAL)"
+	"ID"  "LADDER"
 	"Version"
 	{
 		"Styles"
 		{
 			"BEE2_CLEAN" "ladder"
-		}
-	}
-}
-"Item"
-{
-	"ID"  "CAGED_ITEM_36_DIRECTIONS"
-	"Version"
-	{
-		"Styles"
-		{
-			"BEE2_CLEAN" "caged_item_36_directions"
 		}
 	}
 }
@@ -153,28 +131,6 @@
 		"Styles"
 		{
 			"BEE2_CLEAN" "plants"
-		}
-	}
-}
-"Item"
-{
-	"ID"  "RAGDOLL"
-	"Version"
-	{
-		"Styles"
-		{
-			"BEE2_CLEAN" "ragdoll"
-		}
-	}
-}
-"Item"
-{
-	"ID"  "BED"
-	"Version"
-	{
-		"Styles"
-		{
-			"BEE2_CLEAN" "bed"
 		}
 	}
 }
