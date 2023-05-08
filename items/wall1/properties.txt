@@ -3,10 +3,10 @@
 	"Authors" "Drgregs"
 	"Description" 
 		{
-		"" "Wall textures. Check or uncheck start reversed to select the texture."
+		"" "Wall textures. Use timer widget to select the texture."
 		"" ""
-		"" "* __Not Reversed__: Portal 1 Wall"
-		"" "* __Start Reversed__: Clean Floor"
+		"" "* __03__: Portal 1 Wall"
+		"" "* __04__: Clean Floor"
 	}
 	"Icon"
 	{

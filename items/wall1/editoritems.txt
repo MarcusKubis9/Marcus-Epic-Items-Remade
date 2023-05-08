@@ -13,7 +13,7 @@
 			"Palette"
 			{
 				"Tooltip"		"WALL1"
-				"Image"			"palette/drgregs/wall1.png"
+				"Image"			"palette/drgregs/wall1.vtf"
 				"Position"		"4 2 0"
 			}
 			"Sounds"

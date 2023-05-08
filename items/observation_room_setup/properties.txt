@@ -4,6 +4,8 @@
 	"Description" 
 		{
 		"" "__PLEASE PLACE THIS ON A WALL__"
+		"" ""
+		"" "A PC that is commonly seen in the observation room"
 	}
 	"Icon"
 	{

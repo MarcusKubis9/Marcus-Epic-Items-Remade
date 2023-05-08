@@ -44,11 +44,6 @@
 			"DefaultValue"	"0"
 			"Index"	"1"
 		}
-		"CubeType"
-		{
-			"DefaultValue" "0"
-			"Index" "2"
-		}
 		
 	}
 	"Exporting"
