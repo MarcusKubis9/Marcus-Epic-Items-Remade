@@ -101,18 +101,6 @@
 				"BrushSideCount"	"0"
 			}
 		}
-
-		"OccupiedVoxels"
-		{
-			"Voxel"
-			{
-				"Pos"		"0 0 0"
-				"Surface"
-				{
-					"Normal"	"0 0 1"
-				}
-			}
-		}
 		"EmbeddedVoxels"
 		{
 			"Voxel"
