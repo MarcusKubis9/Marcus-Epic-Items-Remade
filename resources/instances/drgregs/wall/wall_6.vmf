@@ -1,8 +1,8 @@
 versioninfo
 {
 	"editorversion" "400"
-	"editorbuild" "8973"
-	"mapversion" "9"
+	"editorbuild" "9672"
+	"mapversion" "23"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -14,13 +14,13 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "32"
-	"bShow3DGrid" "0"
+	"nGridSpacing" "1"
+	"bShow3DGrid" "1"
 }
 world
 {
 	"id" "1"
-	"mapversion" "9"
+	"mapversion" "23"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -42,9 +42,9 @@ entity
 		"id" "2"
 		side
 		{
-			"id" "1"
-			"plane" "(-64 -64 -63) (-64 64 -63) (64 64 -63)"
-			"material" "METAL/BLACK_CEILING_METAL_001A"
+			"id" "268"
+			"plane" "(-64 64 -63) (64 64 -63) (64 -64 -63)"
+			"material" "CONCRETE/CONCRETE_MODULAR_FLOOR001C"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -53,9 +53,9 @@ entity
 		}
 		side
 		{
-			"id" "2"
-			"plane" "(-64 64 -64) (-64 -64 -64) (64 -64 -64)"
-			"material" "METAL/BLACK_CEILING_METAL_001A"
+			"id" "267"
+			"plane" "(-64 -64 -64) (64 -64 -64) (64 64 -64)"
+			"material" "CONCRETE/CONCRETE_MODULAR_FLOOR001C"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -64,9 +64,9 @@ entity
 		}
 		side
 		{
-			"id" "3"
-			"plane" "(-64 -64 -64) (-64 64 -64) (-64 64 -63)"
-			"material" "METAL/BLACK_CEILING_METAL_001A"
+			"id" "266"
+			"plane" "(-64 64 -63) (-64 -64 -63) (-64 -64 -64)"
+			"material" "CONCRETE/CONCRETE_MODULAR_FLOOR001C"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -75,9 +75,9 @@ entity
 		}
 		side
 		{
-			"id" "4"
+			"id" "265"
 			"plane" "(64 64 -64) (64 -64 -64) (64 -64 -63)"
-			"material" "METAL/BLACK_CEILING_METAL_001A"
+			"material" "CONCRETE/CONCRETE_MODULAR_FLOOR001C"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -86,9 +86,9 @@ entity
 		}
 		side
 		{
-			"id" "5"
-			"plane" "(-64 64 -64) (64 64 -64) (64 64 -63)"
-			"material" "METAL/BLACK_CEILING_METAL_001A"
+			"id" "264"
+			"plane" "(64 64 -63) (-64 64 -63) (-64 64 -64)"
+			"material" "CONCRETE/CONCRETE_MODULAR_FLOOR001C"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -97,9 +97,9 @@ entity
 		}
 		side
 		{
-			"id" "6"
+			"id" "263"
 			"plane" "(64 -64 -64) (-64 -64 -64) (-64 -64 -63)"
-			"material" "METAL/BLACK_CEILING_METAL_001A"
+			"material" "CONCRETE/CONCRETE_MODULAR_FLOOR001C"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"

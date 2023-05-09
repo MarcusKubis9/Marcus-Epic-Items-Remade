@@ -2,17 +2,17 @@
 "Item"
 {
 	"ItemClass"	"ItemBase"
-	"Type"	"WALL1"
+	"Type"	"WALL"
 	"Editor"
 	{
 		 
 		"SubType"
 		{
-			"Name"				"wall1"
+			"Name"				"wall"
 			"Model" { "ModelName"		"bee2_block_quarter_tile_1.3ds" }
 			"Palette"
 			{
-				"Tooltip"		"WALL1"
+				"Tooltip"		"WALL"
 				"Image"			"palette/drgregs/wall1.vtf"
 				"Position"		"4 2 0"
 			}
@@ -44,7 +44,11 @@
 			"DefaultValue"	"0"
 			"Index"	"1"
 		}
-		
+		"CubeType"
+		{
+		"DefaultValue"  "0"
+		"Index"         "1"
+		}
 	}
 	"Exporting"
 	{
@@ -60,42 +64,7 @@
 		{
 			"0"
 			{
-				"Name" "instances/BEE2/drgregs/wall1/wall1_0.vmf"
-				"EntityCount"	"0"
-				"BrushCount"	"0" 
-				"BrushSideCount"	"0"
-			}
-			"1"
-			{
-				"Name" "instances/BEE2/drgregs/wall1/wall1_1.vmf"
-				"EntityCount"	"0"
-				"BrushCount"	"0" 
-				"BrushSideCount"	"0"
-			}
-			"2"
-			{
-				"Name" "instances/BEE2/drgregs/wall1/wall1_2.vmf"
-				"EntityCount"	"0"
-				"BrushCount"	"0" 
-				"BrushSideCount"	"0"
-			}
-			"3"
-			{
-				"Name" "instances/BEE2/drgregs/wall1/wall1_3.vmf"
-				"EntityCount"	"0"
-				"BrushCount"	"0" 
-				"BrushSideCount"	"0"
-			}
-			"4"
-			{
-				"Name" "instances/BEE2/drgregs/wall1/wall1_4.vmf"
-				"EntityCount"	"0"
-				"BrushCount"	"0" 
-				"BrushSideCount"	"0"
-			}
-			"5"
-			{
-				"Name" "instances/BEE2/drgregs/wall1/wall1_5.vmf"
+				"Name" "instances/BEE2/drgregs/wall/wall_0.vmf"
 				"EntityCount"	"0"
 				"BrushCount"	"0" 
 				"BrushSideCount"	"0"

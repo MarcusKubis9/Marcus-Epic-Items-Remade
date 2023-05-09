@@ -59,12 +59,12 @@
 }
 "Item"
 {
-	"ID"  "WALL1"
+	"ID"  "WALL"
 	"Version"
 	{
 		"Styles"
 		{
-			"BEE2_CLEAN" "wall1"
+			"BEE2_CLEAN" "wall"
 		}
 	}
 }
@@ -131,6 +131,17 @@
 		"Styles"
 		{
 			"BEE2_CLEAN" "plants"
+		}
+	}
+}
+"Item"
+{
+	"ID"  "CORES"
+	"Version"
+	{
+		"Styles"
+		{
+			"BEE2_CLEAN" "cores"
 		}
 	}
 }

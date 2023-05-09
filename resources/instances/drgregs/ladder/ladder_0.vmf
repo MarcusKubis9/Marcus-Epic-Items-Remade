@@ -867,7 +867,7 @@ world
 entity
 {
 	"id" "13275"
-	"classname" "prop_dynamic_override"
+	"classname" "prop_static"
 	"angles" "15 180 0"
 	"AnimateEveryFrame" "0"
 	"DisableBoneFollowers" "0"
