@@ -9,11 +9,11 @@
 		"SubType"
 		{
 			"Name"				"Plants & Fungi"
-			"Model" { "ModelName"		"bee2/konclan/lights/strip_erk_light_hot.3ds" }
+			"Model" { "ModelName"		"light_strip.3ds" }
 			"Palette"
 			{
 				"Tooltip"		"PLANTS & FUNGI"
-				"Image"			"palette/drgregs/plants.png"
+				"Image"			"palette/drgregs/plants.vtf"
 				"Position"		"4 2 0"
 			}
 			"Sounds"

@@ -1,0 +1,779 @@
+# Translations template for BEEmod package "Marcus's Epic Package".
+# Built with BEEmod version 2.4.43.0 64-bit.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Marcus's Epic Package 2.4.43.0 64-bit\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-05-08 13:21-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: items/CRATE/Aqua Style.pal_name items/CRATE/BEE2_1950s.pal_name items/CRATE/BEE2_1960s.pal_name
+#: items/CRATE/BEE2_1970s.pal_name items/CRATE/BEE2_1980s.pal_name items/CRATE/BEE2_BTS.pal_name
+#: items/CRATE/BEE2_CLEAN.pal_name items/CRATE/BEE2_CLEAN_ORIGINAL.pal_name items/CRATE/BEE2_OVERGROWN.pal_name
+#: items/CRATE/BEE2_PORTAL_1.pal_name items/CRATE/Baby Blue Style.pal_name items/CRATE/Black Style.pal_name
+#: items/CRATE/Blue Style.pal_name items/CRATE/Brown Style.pal_name items/CRATE/DDS_CAVE_STYLE.pal_name
+#: items/CRATE/DDS_DEV_STYLE.pal_name items/CRATE/DDS_GMOD_STYLE.pal_name items/CRATE/Dark Green Style.pal_name
+#: items/CRATE/Gray Style.pal_name items/CRATE/Hot Pink Style.pal_name items/CRATE/Light Blue Style.pal_name
+#: items/CRATE/Lime Green Style.pal_name items/CRATE/Neon Green Style.pal_name items/CRATE/Orange Style.pal_name
+#: items/CRATE/Pink Style.pal_name items/CRATE/Purple Style.pal_name items/CRATE/Red Style.pal_name
+#: items/CRATE/SUBSTYLE_CAVE_STYLE.pal_name items/CRATE/SUBSTYLE_DEV_STYLE.pal_name
+#: items/CRATE/SUBSTYLE_GMOD_STYLE.pal_name items/CRATE/Tangerine Style.pal_name items/CRATE/White Style.pal_name
+#: items/CRATE/Yellow Style.pal_name items/CRATE/cummywummystyley.pal_name items/CRATE/dds2.pal_name
+msgid "2 CRATES"
+msgstr ""
+
+#: items/CRATE/Aqua Style.name items/CRATE/BEE2_1950s.name items/CRATE/BEE2_1960s.name items/CRATE/BEE2_1970s.name
+#: items/CRATE/BEE2_1980s.name items/CRATE/BEE2_BTS.name items/CRATE/BEE2_CLEAN.name items/CRATE/BEE2_CLEAN_ORIGINAL.name
+#: items/CRATE/BEE2_OVERGROWN.name items/CRATE/BEE2_PORTAL_1.name items/CRATE/Baby Blue Style.name items/CRATE/Black
+#: Style.name items/CRATE/Blue Style.name items/CRATE/Brown Style.name items/CRATE/DDS_CAVE_STYLE.name
+#: items/CRATE/DDS_DEV_STYLE.name items/CRATE/DDS_GMOD_STYLE.name items/CRATE/Dark Green Style.name items/CRATE/Gray
+#: Style.name items/CRATE/Hot Pink Style.name items/CRATE/Light Blue Style.name items/CRATE/Lime Green Style.name
+#: items/CRATE/Neon Green Style.name items/CRATE/Orange Style.name items/CRATE/Pink Style.name items/CRATE/Purple
+#: Style.name items/CRATE/Red Style.name items/CRATE/SUBSTYLE_CAVE_STYLE.name items/CRATE/SUBSTYLE_DEV_STYLE.name
+#: items/CRATE/SUBSTYLE_GMOD_STYLE.name items/CRATE/Tangerine Style.name items/CRATE/White Style.name items/CRATE/Yellow
+#: Style.name items/CRATE/cummywummystyley.name items/CRATE/dds2.name
+msgid "2 Crates"
+msgstr ""
+
+#: items/CRATE/Aqua Style.pal_name items/CRATE/BEE2_1950s.pal_name items/CRATE/BEE2_1960s.pal_name
+#: items/CRATE/BEE2_1970s.pal_name items/CRATE/BEE2_1980s.pal_name items/CRATE/BEE2_BTS.pal_name
+#: items/CRATE/BEE2_CLEAN.pal_name items/CRATE/BEE2_CLEAN_ORIGINAL.pal_name items/CRATE/BEE2_OVERGROWN.pal_name
+#: items/CRATE/BEE2_PORTAL_1.pal_name items/CRATE/Baby Blue Style.pal_name items/CRATE/Black Style.pal_name
+#: items/CRATE/Blue Style.pal_name items/CRATE/Brown Style.pal_name items/CRATE/DDS_CAVE_STYLE.pal_name
+#: items/CRATE/DDS_DEV_STYLE.pal_name items/CRATE/DDS_GMOD_STYLE.pal_name items/CRATE/Dark Green Style.pal_name
+#: items/CRATE/Gray Style.pal_name items/CRATE/Hot Pink Style.pal_name items/CRATE/Light Blue Style.pal_name
+#: items/CRATE/Lime Green Style.pal_name items/CRATE/Neon Green Style.pal_name items/CRATE/Orange Style.pal_name
+#: items/CRATE/Pink Style.pal_name items/CRATE/Purple Style.pal_name items/CRATE/Red Style.pal_name
+#: items/CRATE/SUBSTYLE_CAVE_STYLE.pal_name items/CRATE/SUBSTYLE_DEV_STYLE.pal_name
+#: items/CRATE/SUBSTYLE_GMOD_STYLE.pal_name items/CRATE/Tangerine Style.pal_name items/CRATE/White Style.pal_name
+#: items/CRATE/Yellow Style.pal_name items/CRATE/cummywummystyley.pal_name items/CRATE/dds2.pal_name
+msgid "3 CRATES"
+msgstr ""
+
+#: items/CRATE/Aqua Style.name items/CRATE/BEE2_1950s.name items/CRATE/BEE2_1960s.name items/CRATE/BEE2_1970s.name
+#: items/CRATE/BEE2_1980s.name items/CRATE/BEE2_BTS.name items/CRATE/BEE2_CLEAN.name items/CRATE/BEE2_CLEAN_ORIGINAL.name
+#: items/CRATE/BEE2_OVERGROWN.name items/CRATE/BEE2_PORTAL_1.name items/CRATE/Baby Blue Style.name items/CRATE/Black
+#: Style.name items/CRATE/Blue Style.name items/CRATE/Brown Style.name items/CRATE/DDS_CAVE_STYLE.name
+#: items/CRATE/DDS_DEV_STYLE.name items/CRATE/DDS_GMOD_STYLE.name items/CRATE/Dark Green Style.name items/CRATE/Gray
+#: Style.name items/CRATE/Hot Pink Style.name items/CRATE/Light Blue Style.name items/CRATE/Lime Green Style.name
+#: items/CRATE/Neon Green Style.name items/CRATE/Orange Style.name items/CRATE/Pink Style.name items/CRATE/Purple
+#: Style.name items/CRATE/Red Style.name items/CRATE/SUBSTYLE_CAVE_STYLE.name items/CRATE/SUBSTYLE_DEV_STYLE.name
+#: items/CRATE/SUBSTYLE_GMOD_STYLE.name items/CRATE/Tangerine Style.name items/CRATE/White Style.name items/CRATE/Yellow
+#: Style.name items/CRATE/cummywummystyley.name items/CRATE/dds2.name
+msgid "3 Crates"
+msgstr ""
+
+#: items/LADDER/Aqua Style.desc items/LADDER/BEE2_1950s.desc items/LADDER/BEE2_1960s.desc items/LADDER/BEE2_1970s.desc
+#: items/LADDER/BEE2_1980s.desc items/LADDER/BEE2_BTS.desc items/LADDER/BEE2_CLEAN.desc
+#: items/LADDER/BEE2_CLEAN_ORIGINAL.desc items/LADDER/BEE2_OVERGROWN.desc items/LADDER/BEE2_PORTAL_1.desc items/LADDER/Baby
+#: Blue Style.desc items/LADDER/Black Style.desc items/LADDER/Blue Style.desc items/LADDER/Brown Style.desc
+#: items/LADDER/DDS_CAVE_STYLE.desc items/LADDER/DDS_DEV_STYLE.desc items/LADDER/DDS_GMOD_STYLE.desc items/LADDER/Dark
+#: Green Style.desc items/LADDER/Gray Style.desc items/LADDER/Hot Pink Style.desc items/LADDER/Light Blue Style.desc
+#: items/LADDER/Lime Green Style.desc items/LADDER/Neon Green Style.desc items/LADDER/Orange Style.desc items/LADDER/Pink
+#: Style.desc items/LADDER/Purple Style.desc items/LADDER/Red Style.desc items/LADDER/SUBSTYLE_CAVE_STYLE.desc
+#: items/LADDER/SUBSTYLE_DEV_STYLE.desc items/LADDER/SUBSTYLE_GMOD_STYLE.desc items/LADDER/Tangerine Style.desc
+#: items/LADDER/White Style.desc items/LADDER/Yellow Style.desc items/LADDER/cummywummystyley.desc items/LADDER/dds2.desc
+msgid "A climbable ladder. Start reversed to make it decorational (unclimbable)."
+msgstr ""
+
+#: items/CRATE/Aqua Style.desc items/CRATE/BEE2_1950s.desc items/CRATE/BEE2_1960s.desc items/CRATE/BEE2_1970s.desc
+#: items/CRATE/BEE2_1980s.desc items/CRATE/BEE2_BTS.desc items/CRATE/BEE2_CLEAN.desc items/CRATE/BEE2_CLEAN_ORIGINAL.desc
+#: items/CRATE/BEE2_OVERGROWN.desc items/CRATE/BEE2_PORTAL_1.desc items/CRATE/Baby Blue Style.desc items/CRATE/Black
+#: Style.desc items/CRATE/Blue Style.desc items/CRATE/Brown Style.desc items/CRATE/DDS_CAVE_STYLE.desc
+#: items/CRATE/DDS_DEV_STYLE.desc items/CRATE/DDS_GMOD_STYLE.desc items/CRATE/Dark Green Style.desc items/CRATE/Gray
+#: Style.desc items/CRATE/Hot Pink Style.desc items/CRATE/Light Blue Style.desc items/CRATE/Lime Green Style.desc
+#: items/CRATE/Neon Green Style.desc items/CRATE/Orange Style.desc items/CRATE/Pink Style.desc items/CRATE/Purple
+#: Style.desc items/CRATE/Red Style.desc items/CRATE/SUBSTYLE_CAVE_STYLE.desc items/CRATE/SUBSTYLE_DEV_STYLE.desc
+#: items/CRATE/SUBSTYLE_GMOD_STYLE.desc items/CRATE/Tangerine Style.desc items/CRATE/White Style.desc items/CRATE/Yellow
+#: Style.desc items/CRATE/cummywummystyley.desc items/CRATE/dds2.desc
+msgid ""
+"A crate that can be picked up. Does not press buttons.\n"
+" \n"
+" \n"
+"* __Weighted__ is 1 crate.\n"
+"* __Companion__ is 2 crates.\n"
+"* __Reflection__ is 3 crates.\n"
+"* __Edgeless__ is a vertical crate.\n"
+"* __Franken__ is a vertical rotated crate."
+msgstr ""
+
+#: items/CATAPULT_CUBE/Aqua Style.desc items/CATAPULT_CUBE/BEE2_1950s.desc items/CATAPULT_CUBE/BEE2_1960s.desc
+#: items/CATAPULT_CUBE/BEE2_1970s.desc items/CATAPULT_CUBE/BEE2_1980s.desc items/CATAPULT_CUBE/BEE2_BTS.desc
+#: items/CATAPULT_CUBE/BEE2_CLEAN.desc items/CATAPULT_CUBE/BEE2_CLEAN_ORIGINAL.desc items/CATAPULT_CUBE/BEE2_OVERGROWN.desc
+#: items/CATAPULT_CUBE/BEE2_PORTAL_1.desc items/CATAPULT_CUBE/Baby Blue Style.desc items/CATAPULT_CUBE/Black Style.desc
+#: items/CATAPULT_CUBE/Blue Style.desc items/CATAPULT_CUBE/Brown Style.desc items/CATAPULT_CUBE/DDS_CAVE_STYLE.desc
+#: items/CATAPULT_CUBE/DDS_DEV_STYLE.desc items/CATAPULT_CUBE/DDS_GMOD_STYLE.desc items/CATAPULT_CUBE/Dark Green Style.desc
+#: items/CATAPULT_CUBE/Gray Style.desc items/CATAPULT_CUBE/Hot Pink Style.desc items/CATAPULT_CUBE/Light Blue Style.desc
+#: items/CATAPULT_CUBE/Lime Green Style.desc items/CATAPULT_CUBE/Neon Green Style.desc items/CATAPULT_CUBE/Orange
+#: Style.desc items/CATAPULT_CUBE/Pink Style.desc items/CATAPULT_CUBE/Purple Style.desc items/CATAPULT_CUBE/Red Style.desc
+#: items/CATAPULT_CUBE/SUBSTYLE_CAVE_STYLE.desc items/CATAPULT_CUBE/SUBSTYLE_DEV_STYLE.desc
+#: items/CATAPULT_CUBE/SUBSTYLE_GMOD_STYLE.desc items/CATAPULT_CUBE/Tangerine Style.desc items/CATAPULT_CUBE/White
+#: Style.desc items/CATAPULT_CUBE/Yellow Style.desc items/CATAPULT_CUBE/cummywummystyley.desc items/CATAPULT_CUBE/dds2.desc
+msgid "A cube with a catapult on top that launches the player and physics objects."
+msgstr ""
+
+#: items/EMBEDED_VOXEL/Aqua Style.desc items/EMBEDED_VOXEL/BEE2_1950s.desc items/EMBEDED_VOXEL/BEE2_1960s.desc
+#: items/EMBEDED_VOXEL/BEE2_1970s.desc items/EMBEDED_VOXEL/BEE2_1980s.desc items/EMBEDED_VOXEL/BEE2_BTS.desc
+#: items/EMBEDED_VOXEL/BEE2_CLEAN.desc items/EMBEDED_VOXEL/BEE2_CLEAN_ORIGINAL.desc items/EMBEDED_VOXEL/BEE2_OVERGROWN.desc
+#: items/EMBEDED_VOXEL/BEE2_PORTAL_1.desc items/EMBEDED_VOXEL/Baby Blue Style.desc items/EMBEDED_VOXEL/Black Style.desc
+#: items/EMBEDED_VOXEL/Blue Style.desc items/EMBEDED_VOXEL/Brown Style.desc items/EMBEDED_VOXEL/DDS_CAVE_STYLE.desc
+#: items/EMBEDED_VOXEL/DDS_DEV_STYLE.desc items/EMBEDED_VOXEL/DDS_GMOD_STYLE.desc items/EMBEDED_VOXEL/Dark Green Style.desc
+#: items/EMBEDED_VOXEL/Gray Style.desc items/EMBEDED_VOXEL/Hot Pink Style.desc items/EMBEDED_VOXEL/Light Blue Style.desc
+#: items/EMBEDED_VOXEL/Lime Green Style.desc items/EMBEDED_VOXEL/Neon Green Style.desc items/EMBEDED_VOXEL/Orange
+#: Style.desc items/EMBEDED_VOXEL/Pink Style.desc items/EMBEDED_VOXEL/Purple Style.desc items/EMBEDED_VOXEL/Red Style.desc
+#: items/EMBEDED_VOXEL/SUBSTYLE_CAVE_STYLE.desc items/EMBEDED_VOXEL/SUBSTYLE_DEV_STYLE.desc
+#: items/EMBEDED_VOXEL/SUBSTYLE_GMOD_STYLE.desc items/EMBEDED_VOXEL/Tangerine Style.desc items/EMBEDED_VOXEL/White
+#: Style.desc items/EMBEDED_VOXEL/Yellow Style.desc items/EMBEDED_VOXEL/cummywummystyley.desc items/EMBEDED_VOXEL/dds2.desc
+msgid "A hole with a different texture inside."
+msgstr ""
+
+#: items/LARGE_TURRET_BOX/Aqua Style.desc items/LARGE_TURRET_BOX/BEE2_1950s.desc items/LARGE_TURRET_BOX/BEE2_1960s.desc
+#: items/LARGE_TURRET_BOX/BEE2_1970s.desc items/LARGE_TURRET_BOX/BEE2_1980s.desc items/LARGE_TURRET_BOX/BEE2_BTS.desc
+#: items/LARGE_TURRET_BOX/BEE2_CLEAN.desc items/LARGE_TURRET_BOX/BEE2_CLEAN_ORIGINAL.desc
+#: items/LARGE_TURRET_BOX/BEE2_OVERGROWN.desc items/LARGE_TURRET_BOX/BEE2_PORTAL_1.desc items/LARGE_TURRET_BOX/Baby Blue
+#: Style.desc items/LARGE_TURRET_BOX/Black Style.desc items/LARGE_TURRET_BOX/Blue Style.desc items/LARGE_TURRET_BOX/Brown
+#: Style.desc items/LARGE_TURRET_BOX/DDS_CAVE_STYLE.desc items/LARGE_TURRET_BOX/DDS_DEV_STYLE.desc
+#: items/LARGE_TURRET_BOX/DDS_GMOD_STYLE.desc items/LARGE_TURRET_BOX/Dark Green Style.desc items/LARGE_TURRET_BOX/Gray
+#: Style.desc items/LARGE_TURRET_BOX/Hot Pink Style.desc items/LARGE_TURRET_BOX/Light Blue Style.desc
+#: items/LARGE_TURRET_BOX/Lime Green Style.desc items/LARGE_TURRET_BOX/Neon Green Style.desc items/LARGE_TURRET_BOX/Orange
+#: Style.desc items/LARGE_TURRET_BOX/Pink Style.desc items/LARGE_TURRET_BOX/Purple Style.desc items/LARGE_TURRET_BOX/Red
+#: Style.desc items/LARGE_TURRET_BOX/SUBSTYLE_CAVE_STYLE.desc items/LARGE_TURRET_BOX/SUBSTYLE_DEV_STYLE.desc
+#: items/LARGE_TURRET_BOX/SUBSTYLE_GMOD_STYLE.desc items/LARGE_TURRET_BOX/Tangerine Style.desc items/LARGE_TURRET_BOX/White
+#: Style.desc items/LARGE_TURRET_BOX/Yellow Style.desc items/LARGE_TURRET_BOX/cummywummystyley.desc
+#: items/LARGE_TURRET_BOX/dds2.desc
+msgid "An empty turret box, with Start Reversed checked it will have a turret box with a turret being constructed."
+msgstr ""
+
+#: items/OBSERVATION_ROOM_WINDOW/Aqua Style.desc items/OBSERVATION_ROOM_WINDOW/BEE2_1950s.desc
+#: items/OBSERVATION_ROOM_WINDOW/BEE2_1960s.desc items/OBSERVATION_ROOM_WINDOW/BEE2_1970s.desc
+#: items/OBSERVATION_ROOM_WINDOW/BEE2_1980s.desc items/OBSERVATION_ROOM_WINDOW/BEE2_BTS.desc
+#: items/OBSERVATION_ROOM_WINDOW/BEE2_CLEAN.desc items/OBSERVATION_ROOM_WINDOW/BEE2_CLEAN_ORIGINAL.desc
+#: items/OBSERVATION_ROOM_WINDOW/BEE2_OVERGROWN.desc items/OBSERVATION_ROOM_WINDOW/BEE2_PORTAL_1.desc
+#: items/OBSERVATION_ROOM_WINDOW/Baby Blue Style.desc items/OBSERVATION_ROOM_WINDOW/Black Style.desc
+#: items/OBSERVATION_ROOM_WINDOW/Blue Style.desc items/OBSERVATION_ROOM_WINDOW/Brown Style.desc
+#: items/OBSERVATION_ROOM_WINDOW/DDS_CAVE_STYLE.desc items/OBSERVATION_ROOM_WINDOW/DDS_DEV_STYLE.desc
+#: items/OBSERVATION_ROOM_WINDOW/DDS_GMOD_STYLE.desc items/OBSERVATION_ROOM_WINDOW/Dark Green Style.desc
+#: items/OBSERVATION_ROOM_WINDOW/Gray Style.desc items/OBSERVATION_ROOM_WINDOW/Hot Pink Style.desc
+#: items/OBSERVATION_ROOM_WINDOW/Light Blue Style.desc items/OBSERVATION_ROOM_WINDOW/Lime Green Style.desc
+#: items/OBSERVATION_ROOM_WINDOW/Neon Green Style.desc items/OBSERVATION_ROOM_WINDOW/Orange Style.desc
+#: items/OBSERVATION_ROOM_WINDOW/Pink Style.desc items/OBSERVATION_ROOM_WINDOW/Purple Style.desc
+#: items/OBSERVATION_ROOM_WINDOW/Red Style.desc items/OBSERVATION_ROOM_WINDOW/SUBSTYLE_CAVE_STYLE.desc
+#: items/OBSERVATION_ROOM_WINDOW/SUBSTYLE_DEV_STYLE.desc items/OBSERVATION_ROOM_WINDOW/SUBSTYLE_GMOD_STYLE.desc
+#: items/OBSERVATION_ROOM_WINDOW/Tangerine Style.desc items/OBSERVATION_ROOM_WINDOW/White Style.desc
+#: items/OBSERVATION_ROOM_WINDOW/Yellow Style.desc items/OBSERVATION_ROOM_WINDOW/cummywummystyley.desc
+#: items/OBSERVATION_ROOM_WINDOW/dds2.desc
+msgid ""
+"An observation room window. Can be used to make your own observation rooms using the observation room items.\n"
+"\n"
+"__Start Reversed__ to make the window shattered. The player can shoot a portal through the hole it has."
+msgstr ""
+
+#: items/BROKEN_OBSERVATION_ROOM/Aqua Style.desc items/BROKEN_OBSERVATION_ROOM/BEE2_1950s.desc
+#: items/BROKEN_OBSERVATION_ROOM/BEE2_1960s.desc items/BROKEN_OBSERVATION_ROOM/BEE2_1970s.desc
+#: items/BROKEN_OBSERVATION_ROOM/BEE2_1980s.desc items/BROKEN_OBSERVATION_ROOM/BEE2_BTS.desc
+#: items/BROKEN_OBSERVATION_ROOM/BEE2_CLEAN.desc items/BROKEN_OBSERVATION_ROOM/BEE2_CLEAN_ORIGINAL.desc
+#: items/BROKEN_OBSERVATION_ROOM/BEE2_OVERGROWN.desc items/BROKEN_OBSERVATION_ROOM/BEE2_PORTAL_1.desc
+#: items/BROKEN_OBSERVATION_ROOM/Baby Blue Style.desc items/BROKEN_OBSERVATION_ROOM/Black Style.desc
+#: items/BROKEN_OBSERVATION_ROOM/Blue Style.desc items/BROKEN_OBSERVATION_ROOM/Brown Style.desc
+#: items/BROKEN_OBSERVATION_ROOM/DDS_CAVE_STYLE.desc items/BROKEN_OBSERVATION_ROOM/DDS_DEV_STYLE.desc
+#: items/BROKEN_OBSERVATION_ROOM/DDS_GMOD_STYLE.desc items/BROKEN_OBSERVATION_ROOM/Dark Green Style.desc
+#: items/BROKEN_OBSERVATION_ROOM/Gray Style.desc items/BROKEN_OBSERVATION_ROOM/Hot Pink Style.desc
+#: items/BROKEN_OBSERVATION_ROOM/Light Blue Style.desc items/BROKEN_OBSERVATION_ROOM/Lime Green Style.desc
+#: items/BROKEN_OBSERVATION_ROOM/Neon Green Style.desc items/BROKEN_OBSERVATION_ROOM/Orange Style.desc
+#: items/BROKEN_OBSERVATION_ROOM/Pink Style.desc items/BROKEN_OBSERVATION_ROOM/Purple Style.desc
+#: items/BROKEN_OBSERVATION_ROOM/Red Style.desc items/BROKEN_OBSERVATION_ROOM/SUBSTYLE_CAVE_STYLE.desc
+#: items/BROKEN_OBSERVATION_ROOM/SUBSTYLE_DEV_STYLE.desc items/BROKEN_OBSERVATION_ROOM/SUBSTYLE_GMOD_STYLE.desc
+#: items/BROKEN_OBSERVATION_ROOM/Tangerine Style.desc items/BROKEN_OBSERVATION_ROOM/White Style.desc
+#: items/BROKEN_OBSERVATION_ROOM/Yellow Style.desc items/BROKEN_OBSERVATION_ROOM/cummywummystyley.desc
+#: items/BROKEN_OBSERVATION_ROOM/dds2.desc
+msgid ""
+"An observation room with shattered glass. Can be portaled inside.\n"
+"\n"
+msgstr ""
+
+#: items/BROKEN_OBSERVATION_ROOM/Aqua Style.pal_name items/BROKEN_OBSERVATION_ROOM/BEE2_1950s.pal_name
+#: items/BROKEN_OBSERVATION_ROOM/BEE2_1960s.pal_name items/BROKEN_OBSERVATION_ROOM/BEE2_1970s.pal_name
+#: items/BROKEN_OBSERVATION_ROOM/BEE2_1980s.pal_name items/BROKEN_OBSERVATION_ROOM/BEE2_BTS.pal_name
+#: items/BROKEN_OBSERVATION_ROOM/BEE2_CLEAN.pal_name items/BROKEN_OBSERVATION_ROOM/BEE2_CLEAN_ORIGINAL.pal_name
+#: items/BROKEN_OBSERVATION_ROOM/BEE2_OVERGROWN.pal_name items/BROKEN_OBSERVATION_ROOM/BEE2_PORTAL_1.pal_name
+#: items/BROKEN_OBSERVATION_ROOM/Baby Blue Style.pal_name items/BROKEN_OBSERVATION_ROOM/Black Style.pal_name
+#: items/BROKEN_OBSERVATION_ROOM/Blue Style.pal_name items/BROKEN_OBSERVATION_ROOM/Brown Style.pal_name
+#: items/BROKEN_OBSERVATION_ROOM/DDS_CAVE_STYLE.pal_name items/BROKEN_OBSERVATION_ROOM/DDS_DEV_STYLE.pal_name
+#: items/BROKEN_OBSERVATION_ROOM/DDS_GMOD_STYLE.pal_name items/BROKEN_OBSERVATION_ROOM/Dark Green Style.pal_name
+#: items/BROKEN_OBSERVATION_ROOM/Gray Style.pal_name items/BROKEN_OBSERVATION_ROOM/Hot Pink Style.pal_name
+#: items/BROKEN_OBSERVATION_ROOM/Light Blue Style.pal_name items/BROKEN_OBSERVATION_ROOM/Lime Green Style.pal_name
+#: items/BROKEN_OBSERVATION_ROOM/Neon Green Style.pal_name items/BROKEN_OBSERVATION_ROOM/Orange Style.pal_name
+#: items/BROKEN_OBSERVATION_ROOM/Pink Style.pal_name items/BROKEN_OBSERVATION_ROOM/Purple Style.pal_name
+#: items/BROKEN_OBSERVATION_ROOM/Red Style.pal_name items/BROKEN_OBSERVATION_ROOM/SUBSTYLE_CAVE_STYLE.pal_name
+#: items/BROKEN_OBSERVATION_ROOM/SUBSTYLE_DEV_STYLE.pal_name items/BROKEN_OBSERVATION_ROOM/SUBSTYLE_GMOD_STYLE.pal_name
+#: items/BROKEN_OBSERVATION_ROOM/Tangerine Style.pal_name items/BROKEN_OBSERVATION_ROOM/White Style.pal_name
+#: items/BROKEN_OBSERVATION_ROOM/Yellow Style.pal_name items/BROKEN_OBSERVATION_ROOM/cummywummystyley.pal_name
+#: items/BROKEN_OBSERVATION_ROOM/dds2.pal_name
+msgid "BROKEN OBSERVATION ROOM"
+msgstr ""
+
+#: items/BROKEN_OBSERVATION_ROOM/Aqua Style.name items/BROKEN_OBSERVATION_ROOM/BEE2_1950s.name
+#: items/BROKEN_OBSERVATION_ROOM/BEE2_1960s.name items/BROKEN_OBSERVATION_ROOM/BEE2_1970s.name
+#: items/BROKEN_OBSERVATION_ROOM/BEE2_1980s.name items/BROKEN_OBSERVATION_ROOM/BEE2_BTS.name
+#: items/BROKEN_OBSERVATION_ROOM/BEE2_CLEAN.name items/BROKEN_OBSERVATION_ROOM/BEE2_CLEAN_ORIGINAL.name
+#: items/BROKEN_OBSERVATION_ROOM/BEE2_OVERGROWN.name items/BROKEN_OBSERVATION_ROOM/BEE2_PORTAL_1.name
+#: items/BROKEN_OBSERVATION_ROOM/Baby Blue Style.name items/BROKEN_OBSERVATION_ROOM/Black Style.name
+#: items/BROKEN_OBSERVATION_ROOM/Blue Style.name items/BROKEN_OBSERVATION_ROOM/Brown Style.name
+#: items/BROKEN_OBSERVATION_ROOM/DDS_CAVE_STYLE.name items/BROKEN_OBSERVATION_ROOM/DDS_DEV_STYLE.name
+#: items/BROKEN_OBSERVATION_ROOM/DDS_GMOD_STYLE.name items/BROKEN_OBSERVATION_ROOM/Dark Green Style.name
+#: items/BROKEN_OBSERVATION_ROOM/Gray Style.name items/BROKEN_OBSERVATION_ROOM/Hot Pink Style.name
+#: items/BROKEN_OBSERVATION_ROOM/Light Blue Style.name items/BROKEN_OBSERVATION_ROOM/Lime Green Style.name
+#: items/BROKEN_OBSERVATION_ROOM/Neon Green Style.name items/BROKEN_OBSERVATION_ROOM/Orange Style.name
+#: items/BROKEN_OBSERVATION_ROOM/Pink Style.name items/BROKEN_OBSERVATION_ROOM/Purple Style.name
+#: items/BROKEN_OBSERVATION_ROOM/Red Style.name items/BROKEN_OBSERVATION_ROOM/SUBSTYLE_CAVE_STYLE.name
+#: items/BROKEN_OBSERVATION_ROOM/SUBSTYLE_DEV_STYLE.name items/BROKEN_OBSERVATION_ROOM/SUBSTYLE_GMOD_STYLE.name
+#: items/BROKEN_OBSERVATION_ROOM/Tangerine Style.name items/BROKEN_OBSERVATION_ROOM/White Style.name
+#: items/BROKEN_OBSERVATION_ROOM/Yellow Style.name items/BROKEN_OBSERVATION_ROOM/cummywummystyley.name
+#: items/BROKEN_OBSERVATION_ROOM/dds2.name
+msgid "Broken Observation Room"
+msgstr ""
+
+#: items/CAMERA/Aqua Style.pal_name items/CAMERA/BEE2_1950s.pal_name items/CAMERA/BEE2_1960s.pal_name
+#: items/CAMERA/BEE2_1970s.pal_name items/CAMERA/BEE2_1980s.pal_name items/CAMERA/BEE2_BTS.pal_name
+#: items/CAMERA/BEE2_CLEAN.pal_name items/CAMERA/BEE2_CLEAN_ORIGINAL.pal_name items/CAMERA/BEE2_OVERGROWN.pal_name
+#: items/CAMERA/BEE2_PORTAL_1.pal_name items/CAMERA/Baby Blue Style.pal_name items/CAMERA/Black Style.pal_name
+#: items/CAMERA/Blue Style.pal_name items/CAMERA/Brown Style.pal_name items/CAMERA/DDS_CAVE_STYLE.pal_name
+#: items/CAMERA/DDS_DEV_STYLE.pal_name items/CAMERA/DDS_GMOD_STYLE.pal_name items/CAMERA/Dark Green Style.pal_name
+#: items/CAMERA/Gray Style.pal_name items/CAMERA/Hot Pink Style.pal_name items/CAMERA/Light Blue Style.pal_name
+#: items/CAMERA/Lime Green Style.pal_name items/CAMERA/Neon Green Style.pal_name items/CAMERA/Orange Style.pal_name
+#: items/CAMERA/Pink Style.pal_name items/CAMERA/Purple Style.pal_name items/CAMERA/Red Style.pal_name
+#: items/CAMERA/SUBSTYLE_CAVE_STYLE.pal_name items/CAMERA/SUBSTYLE_DEV_STYLE.pal_name
+#: items/CAMERA/SUBSTYLE_GMOD_STYLE.pal_name items/CAMERA/Tangerine Style.pal_name items/CAMERA/White Style.pal_name
+#: items/CAMERA/Yellow Style.pal_name items/CAMERA/cummywummystyley.pal_name items/CAMERA/dds2.pal_name
+msgid "CAMERA"
+msgstr ""
+
+#: items/CATAPULT_CUBE/Aqua Style.pal_name items/CATAPULT_CUBE/BEE2_1950s.pal_name items/CATAPULT_CUBE/BEE2_1960s.pal_name
+#: items/CATAPULT_CUBE/BEE2_1970s.pal_name items/CATAPULT_CUBE/BEE2_1980s.pal_name items/CATAPULT_CUBE/BEE2_BTS.pal_name
+#: items/CATAPULT_CUBE/BEE2_CLEAN.pal_name items/CATAPULT_CUBE/BEE2_CLEAN_ORIGINAL.pal_name
+#: items/CATAPULT_CUBE/BEE2_OVERGROWN.pal_name items/CATAPULT_CUBE/BEE2_PORTAL_1.pal_name items/CATAPULT_CUBE/Baby Blue
+#: Style.pal_name items/CATAPULT_CUBE/Black Style.pal_name items/CATAPULT_CUBE/Blue Style.pal_name
+#: items/CATAPULT_CUBE/Brown Style.pal_name items/CATAPULT_CUBE/DDS_CAVE_STYLE.pal_name
+#: items/CATAPULT_CUBE/DDS_DEV_STYLE.pal_name items/CATAPULT_CUBE/DDS_GMOD_STYLE.pal_name items/CATAPULT_CUBE/Dark Green
+#: Style.pal_name items/CATAPULT_CUBE/Gray Style.pal_name items/CATAPULT_CUBE/Hot Pink Style.pal_name
+#: items/CATAPULT_CUBE/Light Blue Style.pal_name items/CATAPULT_CUBE/Lime Green Style.pal_name items/CATAPULT_CUBE/Neon
+#: Green Style.pal_name items/CATAPULT_CUBE/Orange Style.pal_name items/CATAPULT_CUBE/Pink Style.pal_name
+#: items/CATAPULT_CUBE/Purple Style.pal_name items/CATAPULT_CUBE/Red Style.pal_name
+#: items/CATAPULT_CUBE/SUBSTYLE_CAVE_STYLE.pal_name items/CATAPULT_CUBE/SUBSTYLE_DEV_STYLE.pal_name
+#: items/CATAPULT_CUBE/SUBSTYLE_GMOD_STYLE.pal_name items/CATAPULT_CUBE/Tangerine Style.pal_name items/CATAPULT_CUBE/White
+#: Style.pal_name items/CATAPULT_CUBE/Yellow Style.pal_name items/CATAPULT_CUBE/cummywummystyley.pal_name
+#: items/CATAPULT_CUBE/dds2.pal_name
+msgid "CATAPULT CUBE"
+msgstr ""
+
+#: items/CRATE/Aqua Style.pal_name items/CRATE/BEE2_1950s.pal_name items/CRATE/BEE2_1960s.pal_name
+#: items/CRATE/BEE2_1970s.pal_name items/CRATE/BEE2_1980s.pal_name items/CRATE/BEE2_BTS.pal_name
+#: items/CRATE/BEE2_CLEAN.pal_name items/CRATE/BEE2_CLEAN_ORIGINAL.pal_name items/CRATE/BEE2_OVERGROWN.pal_name
+#: items/CRATE/BEE2_PORTAL_1.pal_name items/CRATE/Baby Blue Style.pal_name items/CRATE/Black Style.pal_name
+#: items/CRATE/Blue Style.pal_name items/CRATE/Brown Style.pal_name items/CRATE/DDS_CAVE_STYLE.pal_name
+#: items/CRATE/DDS_DEV_STYLE.pal_name items/CRATE/DDS_GMOD_STYLE.pal_name items/CRATE/Dark Green Style.pal_name
+#: items/CRATE/Gray Style.pal_name items/CRATE/Hot Pink Style.pal_name items/CRATE/Light Blue Style.pal_name
+#: items/CRATE/Lime Green Style.pal_name items/CRATE/Neon Green Style.pal_name items/CRATE/Orange Style.pal_name
+#: items/CRATE/Pink Style.pal_name items/CRATE/Purple Style.pal_name items/CRATE/Red Style.pal_name
+#: items/CRATE/SUBSTYLE_CAVE_STYLE.pal_name items/CRATE/SUBSTYLE_DEV_STYLE.pal_name
+#: items/CRATE/SUBSTYLE_GMOD_STYLE.pal_name items/CRATE/Tangerine Style.pal_name items/CRATE/White Style.pal_name
+#: items/CRATE/Yellow Style.pal_name items/CRATE/cummywummystyley.pal_name items/CRATE/dds2.pal_name
+msgid "CRATE"
+msgstr ""
+
+#: items/CRATE/Aqua Style.all_name items/CRATE/BEE2_1950s.all_name items/CRATE/BEE2_1960s.all_name
+#: items/CRATE/BEE2_1970s.all_name items/CRATE/BEE2_1980s.all_name items/CRATE/BEE2_BTS.all_name
+#: items/CRATE/BEE2_CLEAN.all_name items/CRATE/BEE2_CLEAN_ORIGINAL.all_name items/CRATE/BEE2_OVERGROWN.all_name
+#: items/CRATE/BEE2_PORTAL_1.all_name items/CRATE/Baby Blue Style.all_name items/CRATE/Black Style.all_name
+#: items/CRATE/Blue Style.all_name items/CRATE/Brown Style.all_name items/CRATE/DDS_CAVE_STYLE.all_name
+#: items/CRATE/DDS_DEV_STYLE.all_name items/CRATE/DDS_GMOD_STYLE.all_name items/CRATE/Dark Green Style.all_name
+#: items/CRATE/Gray Style.all_name items/CRATE/Hot Pink Style.all_name items/CRATE/Light Blue Style.all_name
+#: items/CRATE/Lime Green Style.all_name items/CRATE/Neon Green Style.all_name items/CRATE/Orange Style.all_name
+#: items/CRATE/Pink Style.all_name items/CRATE/Purple Style.all_name items/CRATE/Red Style.all_name
+#: items/CRATE/SUBSTYLE_CAVE_STYLE.all_name items/CRATE/SUBSTYLE_DEV_STYLE.all_name
+#: items/CRATE/SUBSTYLE_GMOD_STYLE.all_name items/CRATE/Tangerine Style.all_name items/CRATE/White Style.all_name
+#: items/CRATE/Yellow Style.all_name items/CRATE/cummywummystyley.all_name items/CRATE/dds2.all_name
+msgid "CRATES"
+msgstr ""
+
+#: items/CAMERA/Aqua Style.name items/CAMERA/BEE2_1950s.name items/CAMERA/BEE2_1960s.name items/CAMERA/BEE2_1970s.name
+#: items/CAMERA/BEE2_1980s.name items/CAMERA/BEE2_BTS.name items/CAMERA/BEE2_CLEAN.name
+#: items/CAMERA/BEE2_CLEAN_ORIGINAL.name items/CAMERA/BEE2_OVERGROWN.name items/CAMERA/BEE2_PORTAL_1.name items/CAMERA/Baby
+#: Blue Style.name items/CAMERA/Black Style.name items/CAMERA/Blue Style.name items/CAMERA/Brown Style.name
+#: items/CAMERA/DDS_CAVE_STYLE.name items/CAMERA/DDS_DEV_STYLE.name items/CAMERA/DDS_GMOD_STYLE.name items/CAMERA/Dark
+#: Green Style.name items/CAMERA/Gray Style.name items/CAMERA/Hot Pink Style.name items/CAMERA/Light Blue Style.name
+#: items/CAMERA/Lime Green Style.name items/CAMERA/Neon Green Style.name items/CAMERA/Orange Style.name items/CAMERA/Pink
+#: Style.name items/CAMERA/Purple Style.name items/CAMERA/Red Style.name items/CAMERA/SUBSTYLE_CAVE_STYLE.name
+#: items/CAMERA/SUBSTYLE_DEV_STYLE.name items/CAMERA/SUBSTYLE_GMOD_STYLE.name items/CAMERA/Tangerine Style.name
+#: items/CAMERA/White Style.name items/CAMERA/Yellow Style.name items/CAMERA/cummywummystyley.name items/CAMERA/dds2.name
+msgid "Camera"
+msgstr ""
+
+#: items/CATAPULT_CUBE/Aqua Style.name items/CATAPULT_CUBE/BEE2_1950s.name items/CATAPULT_CUBE/BEE2_1960s.name
+#: items/CATAPULT_CUBE/BEE2_1970s.name items/CATAPULT_CUBE/BEE2_1980s.name items/CATAPULT_CUBE/BEE2_BTS.name
+#: items/CATAPULT_CUBE/BEE2_CLEAN.name items/CATAPULT_CUBE/BEE2_CLEAN_ORIGINAL.name items/CATAPULT_CUBE/BEE2_OVERGROWN.name
+#: items/CATAPULT_CUBE/BEE2_PORTAL_1.name items/CATAPULT_CUBE/Baby Blue Style.name items/CATAPULT_CUBE/Black Style.name
+#: items/CATAPULT_CUBE/Blue Style.name items/CATAPULT_CUBE/Brown Style.name items/CATAPULT_CUBE/DDS_CAVE_STYLE.name
+#: items/CATAPULT_CUBE/DDS_DEV_STYLE.name items/CATAPULT_CUBE/DDS_GMOD_STYLE.name items/CATAPULT_CUBE/Dark Green Style.name
+#: items/CATAPULT_CUBE/Gray Style.name items/CATAPULT_CUBE/Hot Pink Style.name items/CATAPULT_CUBE/Light Blue Style.name
+#: items/CATAPULT_CUBE/Lime Green Style.name items/CATAPULT_CUBE/Neon Green Style.name items/CATAPULT_CUBE/Orange
+#: Style.name items/CATAPULT_CUBE/Pink Style.name items/CATAPULT_CUBE/Purple Style.name items/CATAPULT_CUBE/Red Style.name
+#: items/CATAPULT_CUBE/SUBSTYLE_CAVE_STYLE.name items/CATAPULT_CUBE/SUBSTYLE_DEV_STYLE.name
+#: items/CATAPULT_CUBE/SUBSTYLE_GMOD_STYLE.name items/CATAPULT_CUBE/Tangerine Style.name items/CATAPULT_CUBE/White
+#: Style.name items/CATAPULT_CUBE/Yellow Style.name items/CATAPULT_CUBE/cummywummystyley.name items/CATAPULT_CUBE/dds2.name
+msgid "Catapult Cube"
+msgstr ""
+
+#: items/CRATE/Aqua Style.name items/CRATE/BEE2_1950s.name items/CRATE/BEE2_1960s.name items/CRATE/BEE2_1970s.name
+#: items/CRATE/BEE2_1980s.name items/CRATE/BEE2_BTS.name items/CRATE/BEE2_CLEAN.name items/CRATE/BEE2_CLEAN_ORIGINAL.name
+#: items/CRATE/BEE2_OVERGROWN.name items/CRATE/BEE2_PORTAL_1.name items/CRATE/Baby Blue Style.name items/CRATE/Black
+#: Style.name items/CRATE/Blue Style.name items/CRATE/Brown Style.name items/CRATE/DDS_CAVE_STYLE.name
+#: items/CRATE/DDS_DEV_STYLE.name items/CRATE/DDS_GMOD_STYLE.name items/CRATE/Dark Green Style.name items/CRATE/Gray
+#: Style.name items/CRATE/Hot Pink Style.name items/CRATE/Light Blue Style.name items/CRATE/Lime Green Style.name
+#: items/CRATE/Neon Green Style.name items/CRATE/Orange Style.name items/CRATE/Pink Style.name items/CRATE/Purple
+#: Style.name items/CRATE/Red Style.name items/CRATE/SUBSTYLE_CAVE_STYLE.name items/CRATE/SUBSTYLE_DEV_STYLE.name
+#: items/CRATE/SUBSTYLE_GMOD_STYLE.name items/CRATE/Tangerine Style.name items/CRATE/White Style.name items/CRATE/Yellow
+#: Style.name items/CRATE/cummywummystyley.name items/CRATE/dds2.name
+msgid "Crate"
+msgstr ""
+
+#: items/EMBEDED_VOXEL/Aqua Style.pal_name items/EMBEDED_VOXEL/BEE2_1950s.pal_name items/EMBEDED_VOXEL/BEE2_1960s.pal_name
+#: items/EMBEDED_VOXEL/BEE2_1970s.pal_name items/EMBEDED_VOXEL/BEE2_1980s.pal_name items/EMBEDED_VOXEL/BEE2_BTS.pal_name
+#: items/EMBEDED_VOXEL/BEE2_CLEAN.pal_name items/EMBEDED_VOXEL/BEE2_CLEAN_ORIGINAL.pal_name
+#: items/EMBEDED_VOXEL/BEE2_OVERGROWN.pal_name items/EMBEDED_VOXEL/BEE2_PORTAL_1.pal_name items/EMBEDED_VOXEL/Baby Blue
+#: Style.pal_name items/EMBEDED_VOXEL/Black Style.pal_name items/EMBEDED_VOXEL/Blue Style.pal_name
+#: items/EMBEDED_VOXEL/Brown Style.pal_name items/EMBEDED_VOXEL/DDS_CAVE_STYLE.pal_name
+#: items/EMBEDED_VOXEL/DDS_DEV_STYLE.pal_name items/EMBEDED_VOXEL/DDS_GMOD_STYLE.pal_name items/EMBEDED_VOXEL/Dark Green
+#: Style.pal_name items/EMBEDED_VOXEL/Gray Style.pal_name items/EMBEDED_VOXEL/Hot Pink Style.pal_name
+#: items/EMBEDED_VOXEL/Light Blue Style.pal_name items/EMBEDED_VOXEL/Lime Green Style.pal_name items/EMBEDED_VOXEL/Neon
+#: Green Style.pal_name items/EMBEDED_VOXEL/Orange Style.pal_name items/EMBEDED_VOXEL/Pink Style.pal_name
+#: items/EMBEDED_VOXEL/Purple Style.pal_name items/EMBEDED_VOXEL/Red Style.pal_name
+#: items/EMBEDED_VOXEL/SUBSTYLE_CAVE_STYLE.pal_name items/EMBEDED_VOXEL/SUBSTYLE_DEV_STYLE.pal_name
+#: items/EMBEDED_VOXEL/SUBSTYLE_GMOD_STYLE.pal_name items/EMBEDED_VOXEL/Tangerine Style.pal_name items/EMBEDED_VOXEL/White
+#: Style.pal_name items/EMBEDED_VOXEL/Yellow Style.pal_name items/EMBEDED_VOXEL/cummywummystyley.pal_name
+#: items/EMBEDED_VOXEL/dds2.pal_name
+msgid "EMBEDED VOXEL"
+msgstr ""
+
+#: items/EMBEDED_VOXEL/Aqua Style.name items/EMBEDED_VOXEL/BEE2_1950s.name items/EMBEDED_VOXEL/BEE2_1960s.name
+#: items/EMBEDED_VOXEL/BEE2_1970s.name items/EMBEDED_VOXEL/BEE2_1980s.name items/EMBEDED_VOXEL/BEE2_BTS.name
+#: items/EMBEDED_VOXEL/BEE2_CLEAN.name items/EMBEDED_VOXEL/BEE2_CLEAN_ORIGINAL.name items/EMBEDED_VOXEL/BEE2_OVERGROWN.name
+#: items/EMBEDED_VOXEL/BEE2_PORTAL_1.name items/EMBEDED_VOXEL/Baby Blue Style.name items/EMBEDED_VOXEL/Black Style.name
+#: items/EMBEDED_VOXEL/Blue Style.name items/EMBEDED_VOXEL/Brown Style.name items/EMBEDED_VOXEL/DDS_CAVE_STYLE.name
+#: items/EMBEDED_VOXEL/DDS_DEV_STYLE.name items/EMBEDED_VOXEL/DDS_GMOD_STYLE.name items/EMBEDED_VOXEL/Dark Green Style.name
+#: items/EMBEDED_VOXEL/Gray Style.name items/EMBEDED_VOXEL/Hot Pink Style.name items/EMBEDED_VOXEL/Light Blue Style.name
+#: items/EMBEDED_VOXEL/Lime Green Style.name items/EMBEDED_VOXEL/Neon Green Style.name items/EMBEDED_VOXEL/Orange
+#: Style.name items/EMBEDED_VOXEL/Pink Style.name items/EMBEDED_VOXEL/Purple Style.name items/EMBEDED_VOXEL/Red Style.name
+#: items/EMBEDED_VOXEL/SUBSTYLE_CAVE_STYLE.name items/EMBEDED_VOXEL/SUBSTYLE_DEV_STYLE.name
+#: items/EMBEDED_VOXEL/SUBSTYLE_GMOD_STYLE.name items/EMBEDED_VOXEL/Tangerine Style.name items/EMBEDED_VOXEL/White
+#: Style.name items/EMBEDED_VOXEL/Yellow Style.name items/EMBEDED_VOXEL/cummywummystyley.name items/EMBEDED_VOXEL/dds2.name
+msgid "Embeded Voxel"
+msgstr ""
+
+#: items/JOKE_TURRET/Aqua Style.pal_name items/JOKE_TURRET/BEE2_1950s.pal_name items/JOKE_TURRET/BEE2_1960s.pal_name
+#: items/JOKE_TURRET/BEE2_1970s.pal_name items/JOKE_TURRET/BEE2_1980s.pal_name items/JOKE_TURRET/BEE2_BTS.pal_name
+#: items/JOKE_TURRET/BEE2_CLEAN.pal_name items/JOKE_TURRET/BEE2_CLEAN_ORIGINAL.pal_name
+#: items/JOKE_TURRET/BEE2_OVERGROWN.pal_name items/JOKE_TURRET/BEE2_PORTAL_1.pal_name items/JOKE_TURRET/Baby Blue
+#: Style.pal_name items/JOKE_TURRET/Black Style.pal_name items/JOKE_TURRET/Blue Style.pal_name items/JOKE_TURRET/Brown
+#: Style.pal_name items/JOKE_TURRET/DDS_CAVE_STYLE.pal_name items/JOKE_TURRET/DDS_DEV_STYLE.pal_name
+#: items/JOKE_TURRET/DDS_GMOD_STYLE.pal_name items/JOKE_TURRET/Dark Green Style.pal_name items/JOKE_TURRET/Gray
+#: Style.pal_name items/JOKE_TURRET/Hot Pink Style.pal_name items/JOKE_TURRET/Light Blue Style.pal_name
+#: items/JOKE_TURRET/Lime Green Style.pal_name items/JOKE_TURRET/Neon Green Style.pal_name items/JOKE_TURRET/Orange
+#: Style.pal_name items/JOKE_TURRET/Pink Style.pal_name items/JOKE_TURRET/Purple Style.pal_name items/JOKE_TURRET/Red
+#: Style.pal_name items/JOKE_TURRET/SUBSTYLE_CAVE_STYLE.pal_name items/JOKE_TURRET/SUBSTYLE_DEV_STYLE.pal_name
+#: items/JOKE_TURRET/SUBSTYLE_GMOD_STYLE.pal_name items/JOKE_TURRET/Tangerine Style.pal_name items/JOKE_TURRET/White
+#: Style.pal_name items/JOKE_TURRET/Yellow Style.pal_name items/JOKE_TURRET/cummywummystyley.pal_name
+#: items/JOKE_TURRET/dds2.pal_name
+msgid "FAKE TURRETS"
+msgstr ""
+
+#: items/JOKE_TURRET/Aqua Style.name items/JOKE_TURRET/BEE2_1950s.name items/JOKE_TURRET/BEE2_1960s.name
+#: items/JOKE_TURRET/BEE2_1970s.name items/JOKE_TURRET/BEE2_1980s.name items/JOKE_TURRET/BEE2_BTS.name
+#: items/JOKE_TURRET/BEE2_CLEAN.name items/JOKE_TURRET/BEE2_CLEAN_ORIGINAL.name items/JOKE_TURRET/BEE2_OVERGROWN.name
+#: items/JOKE_TURRET/BEE2_PORTAL_1.name items/JOKE_TURRET/Baby Blue Style.name items/JOKE_TURRET/Black Style.name
+#: items/JOKE_TURRET/Blue Style.name items/JOKE_TURRET/Brown Style.name items/JOKE_TURRET/DDS_CAVE_STYLE.name
+#: items/JOKE_TURRET/DDS_DEV_STYLE.name items/JOKE_TURRET/DDS_GMOD_STYLE.name items/JOKE_TURRET/Dark Green Style.name
+#: items/JOKE_TURRET/Gray Style.name items/JOKE_TURRET/Hot Pink Style.name items/JOKE_TURRET/Light Blue Style.name
+#: items/JOKE_TURRET/Lime Green Style.name items/JOKE_TURRET/Neon Green Style.name items/JOKE_TURRET/Orange Style.name
+#: items/JOKE_TURRET/Pink Style.name items/JOKE_TURRET/Purple Style.name items/JOKE_TURRET/Red Style.name
+#: items/JOKE_TURRET/SUBSTYLE_CAVE_STYLE.name items/JOKE_TURRET/SUBSTYLE_DEV_STYLE.name
+#: items/JOKE_TURRET/SUBSTYLE_GMOD_STYLE.name items/JOKE_TURRET/Tangerine Style.name items/JOKE_TURRET/White Style.name
+#: items/JOKE_TURRET/Yellow Style.name items/JOKE_TURRET/cummywummystyley.name items/JOKE_TURRET/dds2.name
+msgid "Fake Turrets"
+msgstr ""
+
+#: items/LADDER/Aqua Style.pal_name items/LADDER/BEE2_1950s.pal_name items/LADDER/BEE2_1960s.pal_name
+#: items/LADDER/BEE2_1970s.pal_name items/LADDER/BEE2_1980s.pal_name items/LADDER/BEE2_BTS.pal_name
+#: items/LADDER/BEE2_CLEAN.pal_name items/LADDER/BEE2_CLEAN_ORIGINAL.pal_name items/LADDER/BEE2_OVERGROWN.pal_name
+#: items/LADDER/BEE2_PORTAL_1.pal_name items/LADDER/Baby Blue Style.pal_name items/LADDER/Black Style.pal_name
+#: items/LADDER/Blue Style.pal_name items/LADDER/Brown Style.pal_name items/LADDER/DDS_CAVE_STYLE.pal_name
+#: items/LADDER/DDS_DEV_STYLE.pal_name items/LADDER/DDS_GMOD_STYLE.pal_name items/LADDER/Dark Green Style.pal_name
+#: items/LADDER/Gray Style.pal_name items/LADDER/Hot Pink Style.pal_name items/LADDER/Light Blue Style.pal_name
+#: items/LADDER/Lime Green Style.pal_name items/LADDER/Neon Green Style.pal_name items/LADDER/Orange Style.pal_name
+#: items/LADDER/Pink Style.pal_name items/LADDER/Purple Style.pal_name items/LADDER/Red Style.pal_name
+#: items/LADDER/SUBSTYLE_CAVE_STYLE.pal_name items/LADDER/SUBSTYLE_DEV_STYLE.pal_name
+#: items/LADDER/SUBSTYLE_GMOD_STYLE.pal_name items/LADDER/Tangerine Style.pal_name items/LADDER/White Style.pal_name
+#: items/LADDER/Yellow Style.pal_name items/LADDER/cummywummystyley.pal_name items/LADDER/dds2.pal_name
+msgid "LADDER"
+msgstr ""
+
+#: items/LARGE_TURRET_BOX/Aqua Style.pal_name items/LARGE_TURRET_BOX/BEE2_1950s.pal_name
+#: items/LARGE_TURRET_BOX/BEE2_1960s.pal_name items/LARGE_TURRET_BOX/BEE2_1970s.pal_name
+#: items/LARGE_TURRET_BOX/BEE2_1980s.pal_name items/LARGE_TURRET_BOX/BEE2_BTS.pal_name
+#: items/LARGE_TURRET_BOX/BEE2_CLEAN.pal_name items/LARGE_TURRET_BOX/BEE2_CLEAN_ORIGINAL.pal_name
+#: items/LARGE_TURRET_BOX/BEE2_OVERGROWN.pal_name items/LARGE_TURRET_BOX/BEE2_PORTAL_1.pal_name items/LARGE_TURRET_BOX/Baby
+#: Blue Style.pal_name items/LARGE_TURRET_BOX/Black Style.pal_name items/LARGE_TURRET_BOX/Blue Style.pal_name
+#: items/LARGE_TURRET_BOX/Brown Style.pal_name items/LARGE_TURRET_BOX/DDS_CAVE_STYLE.pal_name
+#: items/LARGE_TURRET_BOX/DDS_DEV_STYLE.pal_name items/LARGE_TURRET_BOX/DDS_GMOD_STYLE.pal_name items/LARGE_TURRET_BOX/Dark
+#: Green Style.pal_name items/LARGE_TURRET_BOX/Gray Style.pal_name items/LARGE_TURRET_BOX/Hot Pink Style.pal_name
+#: items/LARGE_TURRET_BOX/Light Blue Style.pal_name items/LARGE_TURRET_BOX/Lime Green Style.pal_name
+#: items/LARGE_TURRET_BOX/Neon Green Style.pal_name items/LARGE_TURRET_BOX/Orange Style.pal_name
+#: items/LARGE_TURRET_BOX/Pink Style.pal_name items/LARGE_TURRET_BOX/Purple Style.pal_name items/LARGE_TURRET_BOX/Red
+#: Style.pal_name items/LARGE_TURRET_BOX/SUBSTYLE_CAVE_STYLE.pal_name items/LARGE_TURRET_BOX/SUBSTYLE_DEV_STYLE.pal_name
+#: items/LARGE_TURRET_BOX/SUBSTYLE_GMOD_STYLE.pal_name items/LARGE_TURRET_BOX/Tangerine Style.pal_name
+#: items/LARGE_TURRET_BOX/White Style.pal_name items/LARGE_TURRET_BOX/Yellow Style.pal_name
+#: items/LARGE_TURRET_BOX/cummywummystyley.pal_name items/LARGE_TURRET_BOX/dds2.pal_name
+msgid "LARGE TURRET BOX"
+msgstr ""
+
+#: items/LADDER/Aqua Style.name items/LADDER/BEE2_1950s.name items/LADDER/BEE2_1960s.name items/LADDER/BEE2_1970s.name
+#: items/LADDER/BEE2_1980s.name items/LADDER/BEE2_BTS.name items/LADDER/BEE2_CLEAN.name
+#: items/LADDER/BEE2_CLEAN_ORIGINAL.name items/LADDER/BEE2_OVERGROWN.name items/LADDER/BEE2_PORTAL_1.name items/LADDER/Baby
+#: Blue Style.name items/LADDER/Black Style.name items/LADDER/Blue Style.name items/LADDER/Brown Style.name
+#: items/LADDER/DDS_CAVE_STYLE.name items/LADDER/DDS_DEV_STYLE.name items/LADDER/DDS_GMOD_STYLE.name items/LADDER/Dark
+#: Green Style.name items/LADDER/Gray Style.name items/LADDER/Hot Pink Style.name items/LADDER/Light Blue Style.name
+#: items/LADDER/Lime Green Style.name items/LADDER/Neon Green Style.name items/LADDER/Orange Style.name items/LADDER/Pink
+#: Style.name items/LADDER/Purple Style.name items/LADDER/Red Style.name items/LADDER/SUBSTYLE_CAVE_STYLE.name
+#: items/LADDER/SUBSTYLE_DEV_STYLE.name items/LADDER/SUBSTYLE_GMOD_STYLE.name items/LADDER/Tangerine Style.name
+#: items/LADDER/White Style.name items/LADDER/Yellow Style.name items/LADDER/cummywummystyley.name items/LADDER/dds2.name
+msgid "Ladder"
+msgstr ""
+
+#: items/LARGE_TURRET_BOX/Aqua Style.name items/LARGE_TURRET_BOX/BEE2_1950s.name items/LARGE_TURRET_BOX/BEE2_1960s.name
+#: items/LARGE_TURRET_BOX/BEE2_1970s.name items/LARGE_TURRET_BOX/BEE2_1980s.name items/LARGE_TURRET_BOX/BEE2_BTS.name
+#: items/LARGE_TURRET_BOX/BEE2_CLEAN.name items/LARGE_TURRET_BOX/BEE2_CLEAN_ORIGINAL.name
+#: items/LARGE_TURRET_BOX/BEE2_OVERGROWN.name items/LARGE_TURRET_BOX/BEE2_PORTAL_1.name items/LARGE_TURRET_BOX/Baby Blue
+#: Style.name items/LARGE_TURRET_BOX/Black Style.name items/LARGE_TURRET_BOX/Blue Style.name items/LARGE_TURRET_BOX/Brown
+#: Style.name items/LARGE_TURRET_BOX/DDS_CAVE_STYLE.name items/LARGE_TURRET_BOX/DDS_DEV_STYLE.name
+#: items/LARGE_TURRET_BOX/DDS_GMOD_STYLE.name items/LARGE_TURRET_BOX/Dark Green Style.name items/LARGE_TURRET_BOX/Gray
+#: Style.name items/LARGE_TURRET_BOX/Hot Pink Style.name items/LARGE_TURRET_BOX/Light Blue Style.name
+#: items/LARGE_TURRET_BOX/Lime Green Style.name items/LARGE_TURRET_BOX/Neon Green Style.name items/LARGE_TURRET_BOX/Orange
+#: Style.name items/LARGE_TURRET_BOX/Pink Style.name items/LARGE_TURRET_BOX/Purple Style.name items/LARGE_TURRET_BOX/Red
+#: Style.name items/LARGE_TURRET_BOX/SUBSTYLE_CAVE_STYLE.name items/LARGE_TURRET_BOX/SUBSTYLE_DEV_STYLE.name
+#: items/LARGE_TURRET_BOX/SUBSTYLE_GMOD_STYLE.name items/LARGE_TURRET_BOX/Tangerine Style.name items/LARGE_TURRET_BOX/White
+#: Style.name items/LARGE_TURRET_BOX/Yellow Style.name items/LARGE_TURRET_BOX/cummywummystyley.name
+#: items/LARGE_TURRET_BOX/dds2.name
+msgid "Large Turret Box"
+msgstr ""
+
+#: package/name
+msgid "Marcus's Epic Package"
+msgstr ""
+
+#: package/desc
+msgid "Marcus's Epic Package is full of Epic items"
+msgstr ""
+
+#: items/OBSERVATION_ROOM_SETUP/Aqua Style.pal_name items/OBSERVATION_ROOM_SETUP/BEE2_1950s.pal_name
+#: items/OBSERVATION_ROOM_SETUP/BEE2_1960s.pal_name items/OBSERVATION_ROOM_SETUP/BEE2_1970s.pal_name
+#: items/OBSERVATION_ROOM_SETUP/BEE2_1980s.pal_name items/OBSERVATION_ROOM_SETUP/BEE2_BTS.pal_name
+#: items/OBSERVATION_ROOM_SETUP/BEE2_CLEAN.pal_name items/OBSERVATION_ROOM_SETUP/BEE2_CLEAN_ORIGINAL.pal_name
+#: items/OBSERVATION_ROOM_SETUP/BEE2_OVERGROWN.pal_name items/OBSERVATION_ROOM_SETUP/BEE2_PORTAL_1.pal_name
+#: items/OBSERVATION_ROOM_SETUP/Baby Blue Style.pal_name items/OBSERVATION_ROOM_SETUP/Black Style.pal_name
+#: items/OBSERVATION_ROOM_SETUP/Blue Style.pal_name items/OBSERVATION_ROOM_SETUP/Brown Style.pal_name
+#: items/OBSERVATION_ROOM_SETUP/DDS_CAVE_STYLE.pal_name items/OBSERVATION_ROOM_SETUP/DDS_DEV_STYLE.pal_name
+#: items/OBSERVATION_ROOM_SETUP/DDS_GMOD_STYLE.pal_name items/OBSERVATION_ROOM_SETUP/Dark Green Style.pal_name
+#: items/OBSERVATION_ROOM_SETUP/Gray Style.pal_name items/OBSERVATION_ROOM_SETUP/Hot Pink Style.pal_name
+#: items/OBSERVATION_ROOM_SETUP/Light Blue Style.pal_name items/OBSERVATION_ROOM_SETUP/Lime Green Style.pal_name
+#: items/OBSERVATION_ROOM_SETUP/Neon Green Style.pal_name items/OBSERVATION_ROOM_SETUP/Orange Style.pal_name
+#: items/OBSERVATION_ROOM_SETUP/Pink Style.pal_name items/OBSERVATION_ROOM_SETUP/Purple Style.pal_name
+#: items/OBSERVATION_ROOM_SETUP/Red Style.pal_name items/OBSERVATION_ROOM_SETUP/SUBSTYLE_CAVE_STYLE.pal_name
+#: items/OBSERVATION_ROOM_SETUP/SUBSTYLE_DEV_STYLE.pal_name items/OBSERVATION_ROOM_SETUP/SUBSTYLE_GMOD_STYLE.pal_name
+#: items/OBSERVATION_ROOM_SETUP/Tangerine Style.pal_name items/OBSERVATION_ROOM_SETUP/White Style.pal_name
+#: items/OBSERVATION_ROOM_SETUP/Yellow Style.pal_name items/OBSERVATION_ROOM_SETUP/cummywummystyley.pal_name
+#: items/OBSERVATION_ROOM_SETUP/dds2.pal_name
+msgid "OBSERVATION ROOM SETUP"
+msgstr ""
+
+#: items/OBSERVATION_ROOM_WINDOW/Aqua Style.pal_name items/OBSERVATION_ROOM_WINDOW/BEE2_1950s.pal_name
+#: items/OBSERVATION_ROOM_WINDOW/BEE2_1960s.pal_name items/OBSERVATION_ROOM_WINDOW/BEE2_1970s.pal_name
+#: items/OBSERVATION_ROOM_WINDOW/BEE2_1980s.pal_name items/OBSERVATION_ROOM_WINDOW/BEE2_BTS.pal_name
+#: items/OBSERVATION_ROOM_WINDOW/BEE2_CLEAN.pal_name items/OBSERVATION_ROOM_WINDOW/BEE2_CLEAN_ORIGINAL.pal_name
+#: items/OBSERVATION_ROOM_WINDOW/BEE2_OVERGROWN.pal_name items/OBSERVATION_ROOM_WINDOW/BEE2_PORTAL_1.pal_name
+#: items/OBSERVATION_ROOM_WINDOW/Baby Blue Style.pal_name items/OBSERVATION_ROOM_WINDOW/Black Style.pal_name
+#: items/OBSERVATION_ROOM_WINDOW/Blue Style.pal_name items/OBSERVATION_ROOM_WINDOW/Brown Style.pal_name
+#: items/OBSERVATION_ROOM_WINDOW/DDS_CAVE_STYLE.pal_name items/OBSERVATION_ROOM_WINDOW/DDS_DEV_STYLE.pal_name
+#: items/OBSERVATION_ROOM_WINDOW/DDS_GMOD_STYLE.pal_name items/OBSERVATION_ROOM_WINDOW/Dark Green Style.pal_name
+#: items/OBSERVATION_ROOM_WINDOW/Gray Style.pal_name items/OBSERVATION_ROOM_WINDOW/Hot Pink Style.pal_name
+#: items/OBSERVATION_ROOM_WINDOW/Light Blue Style.pal_name items/OBSERVATION_ROOM_WINDOW/Lime Green Style.pal_name
+#: items/OBSERVATION_ROOM_WINDOW/Neon Green Style.pal_name items/OBSERVATION_ROOM_WINDOW/Orange Style.pal_name
+#: items/OBSERVATION_ROOM_WINDOW/Pink Style.pal_name items/OBSERVATION_ROOM_WINDOW/Purple Style.pal_name
+#: items/OBSERVATION_ROOM_WINDOW/Red Style.pal_name items/OBSERVATION_ROOM_WINDOW/SUBSTYLE_CAVE_STYLE.pal_name
+#: items/OBSERVATION_ROOM_WINDOW/SUBSTYLE_DEV_STYLE.pal_name items/OBSERVATION_ROOM_WINDOW/SUBSTYLE_GMOD_STYLE.pal_name
+#: items/OBSERVATION_ROOM_WINDOW/Tangerine Style.pal_name items/OBSERVATION_ROOM_WINDOW/White Style.pal_name
+#: items/OBSERVATION_ROOM_WINDOW/Yellow Style.pal_name items/OBSERVATION_ROOM_WINDOW/cummywummystyley.pal_name
+#: items/OBSERVATION_ROOM_WINDOW/dds2.pal_name
+msgid "OBSERVATION ROOM WINDOW"
+msgstr ""
+
+#: items/OBSERVATION_ROOM_SETUP/Aqua Style.name items/OBSERVATION_ROOM_SETUP/BEE2_1950s.name
+#: items/OBSERVATION_ROOM_SETUP/BEE2_1960s.name items/OBSERVATION_ROOM_SETUP/BEE2_1970s.name
+#: items/OBSERVATION_ROOM_SETUP/BEE2_1980s.name items/OBSERVATION_ROOM_SETUP/BEE2_BTS.name
+#: items/OBSERVATION_ROOM_SETUP/BEE2_CLEAN.name items/OBSERVATION_ROOM_SETUP/BEE2_CLEAN_ORIGINAL.name
+#: items/OBSERVATION_ROOM_SETUP/BEE2_OVERGROWN.name items/OBSERVATION_ROOM_SETUP/BEE2_PORTAL_1.name
+#: items/OBSERVATION_ROOM_SETUP/Baby Blue Style.name items/OBSERVATION_ROOM_SETUP/Black Style.name
+#: items/OBSERVATION_ROOM_SETUP/Blue Style.name items/OBSERVATION_ROOM_SETUP/Brown Style.name
+#: items/OBSERVATION_ROOM_SETUP/DDS_CAVE_STYLE.name items/OBSERVATION_ROOM_SETUP/DDS_DEV_STYLE.name
+#: items/OBSERVATION_ROOM_SETUP/DDS_GMOD_STYLE.name items/OBSERVATION_ROOM_SETUP/Dark Green Style.name
+#: items/OBSERVATION_ROOM_SETUP/Gray Style.name items/OBSERVATION_ROOM_SETUP/Hot Pink Style.name
+#: items/OBSERVATION_ROOM_SETUP/Light Blue Style.name items/OBSERVATION_ROOM_SETUP/Lime Green Style.name
+#: items/OBSERVATION_ROOM_SETUP/Neon Green Style.name items/OBSERVATION_ROOM_SETUP/Orange Style.name
+#: items/OBSERVATION_ROOM_SETUP/Pink Style.name items/OBSERVATION_ROOM_SETUP/Purple Style.name
+#: items/OBSERVATION_ROOM_SETUP/Red Style.name items/OBSERVATION_ROOM_SETUP/SUBSTYLE_CAVE_STYLE.name
+#: items/OBSERVATION_ROOM_SETUP/SUBSTYLE_DEV_STYLE.name items/OBSERVATION_ROOM_SETUP/SUBSTYLE_GMOD_STYLE.name
+#: items/OBSERVATION_ROOM_SETUP/Tangerine Style.name items/OBSERVATION_ROOM_SETUP/White Style.name
+#: items/OBSERVATION_ROOM_SETUP/Yellow Style.name items/OBSERVATION_ROOM_SETUP/cummywummystyley.name
+#: items/OBSERVATION_ROOM_SETUP/dds2.name
+msgid "Observation Room Setup"
+msgstr ""
+
+#: items/OBSERVATION_ROOM_WINDOW/Aqua Style.name items/OBSERVATION_ROOM_WINDOW/BEE2_1950s.name
+#: items/OBSERVATION_ROOM_WINDOW/BEE2_1960s.name items/OBSERVATION_ROOM_WINDOW/BEE2_1970s.name
+#: items/OBSERVATION_ROOM_WINDOW/BEE2_1980s.name items/OBSERVATION_ROOM_WINDOW/BEE2_BTS.name
+#: items/OBSERVATION_ROOM_WINDOW/BEE2_CLEAN.name items/OBSERVATION_ROOM_WINDOW/BEE2_CLEAN_ORIGINAL.name
+#: items/OBSERVATION_ROOM_WINDOW/BEE2_OVERGROWN.name items/OBSERVATION_ROOM_WINDOW/BEE2_PORTAL_1.name
+#: items/OBSERVATION_ROOM_WINDOW/Baby Blue Style.name items/OBSERVATION_ROOM_WINDOW/Black Style.name
+#: items/OBSERVATION_ROOM_WINDOW/Blue Style.name items/OBSERVATION_ROOM_WINDOW/Brown Style.name
+#: items/OBSERVATION_ROOM_WINDOW/DDS_CAVE_STYLE.name items/OBSERVATION_ROOM_WINDOW/DDS_DEV_STYLE.name
+#: items/OBSERVATION_ROOM_WINDOW/DDS_GMOD_STYLE.name items/OBSERVATION_ROOM_WINDOW/Dark Green Style.name
+#: items/OBSERVATION_ROOM_WINDOW/Gray Style.name items/OBSERVATION_ROOM_WINDOW/Hot Pink Style.name
+#: items/OBSERVATION_ROOM_WINDOW/Light Blue Style.name items/OBSERVATION_ROOM_WINDOW/Lime Green Style.name
+#: items/OBSERVATION_ROOM_WINDOW/Neon Green Style.name items/OBSERVATION_ROOM_WINDOW/Orange Style.name
+#: items/OBSERVATION_ROOM_WINDOW/Pink Style.name items/OBSERVATION_ROOM_WINDOW/Purple Style.name
+#: items/OBSERVATION_ROOM_WINDOW/Red Style.name items/OBSERVATION_ROOM_WINDOW/SUBSTYLE_CAVE_STYLE.name
+#: items/OBSERVATION_ROOM_WINDOW/SUBSTYLE_DEV_STYLE.name items/OBSERVATION_ROOM_WINDOW/SUBSTYLE_GMOD_STYLE.name
+#: items/OBSERVATION_ROOM_WINDOW/Tangerine Style.name items/OBSERVATION_ROOM_WINDOW/White Style.name
+#: items/OBSERVATION_ROOM_WINDOW/Yellow Style.name items/OBSERVATION_ROOM_WINDOW/cummywummystyley.name
+#: items/OBSERVATION_ROOM_WINDOW/dds2.name
+msgid "Observation Room Window"
+msgstr ""
+
+#: items/PLANTS/Aqua Style.pal_name items/PLANTS/BEE2_1950s.pal_name items/PLANTS/BEE2_1960s.pal_name
+#: items/PLANTS/BEE2_1970s.pal_name items/PLANTS/BEE2_1980s.pal_name items/PLANTS/BEE2_BTS.pal_name
+#: items/PLANTS/BEE2_CLEAN.pal_name items/PLANTS/BEE2_CLEAN_ORIGINAL.pal_name items/PLANTS/BEE2_OVERGROWN.pal_name
+#: items/PLANTS/BEE2_PORTAL_1.pal_name items/PLANTS/Baby Blue Style.pal_name items/PLANTS/Black Style.pal_name
+#: items/PLANTS/Blue Style.pal_name items/PLANTS/Brown Style.pal_name items/PLANTS/DDS_CAVE_STYLE.pal_name
+#: items/PLANTS/DDS_DEV_STYLE.pal_name items/PLANTS/DDS_GMOD_STYLE.pal_name items/PLANTS/Dark Green Style.pal_name
+#: items/PLANTS/Gray Style.pal_name items/PLANTS/Hot Pink Style.pal_name items/PLANTS/Light Blue Style.pal_name
+#: items/PLANTS/Lime Green Style.pal_name items/PLANTS/Neon Green Style.pal_name items/PLANTS/Orange Style.pal_name
+#: items/PLANTS/Pink Style.pal_name items/PLANTS/Purple Style.pal_name items/PLANTS/Red Style.pal_name
+#: items/PLANTS/SUBSTYLE_CAVE_STYLE.pal_name items/PLANTS/SUBSTYLE_DEV_STYLE.pal_name
+#: items/PLANTS/SUBSTYLE_GMOD_STYLE.pal_name items/PLANTS/Tangerine Style.pal_name items/PLANTS/White Style.pal_name
+#: items/PLANTS/Yellow Style.pal_name items/PLANTS/cummywummystyley.pal_name items/PLANTS/dds2.pal_name
+msgid "PLANTS & FUNGI"
+msgstr ""
+
+#: items/PLANTS/Aqua Style.name items/PLANTS/BEE2_1950s.name items/PLANTS/BEE2_1960s.name items/PLANTS/BEE2_1970s.name
+#: items/PLANTS/BEE2_1980s.name items/PLANTS/BEE2_BTS.name items/PLANTS/BEE2_CLEAN.name
+#: items/PLANTS/BEE2_CLEAN_ORIGINAL.name items/PLANTS/BEE2_OVERGROWN.name items/PLANTS/BEE2_PORTAL_1.name items/PLANTS/Baby
+#: Blue Style.name items/PLANTS/Black Style.name items/PLANTS/Blue Style.name items/PLANTS/Brown Style.name
+#: items/PLANTS/DDS_CAVE_STYLE.name items/PLANTS/DDS_DEV_STYLE.name items/PLANTS/DDS_GMOD_STYLE.name items/PLANTS/Dark
+#: Green Style.name items/PLANTS/Gray Style.name items/PLANTS/Hot Pink Style.name items/PLANTS/Light Blue Style.name
+#: items/PLANTS/Lime Green Style.name items/PLANTS/Neon Green Style.name items/PLANTS/Orange Style.name items/PLANTS/Pink
+#: Style.name items/PLANTS/Purple Style.name items/PLANTS/Red Style.name items/PLANTS/SUBSTYLE_CAVE_STYLE.name
+#: items/PLANTS/SUBSTYLE_DEV_STYLE.name items/PLANTS/SUBSTYLE_GMOD_STYLE.name items/PLANTS/Tangerine Style.name
+#: items/PLANTS/White Style.name items/PLANTS/Yellow Style.name items/PLANTS/cummywummystyley.name items/PLANTS/dds2.name
+msgid "Plants & Fungi"
+msgstr ""
+
+#: items/PLANTS/Aqua Style.desc items/PLANTS/BEE2_1950s.desc items/PLANTS/BEE2_1960s.desc items/PLANTS/BEE2_1970s.desc
+#: items/PLANTS/BEE2_1980s.desc items/PLANTS/BEE2_BTS.desc items/PLANTS/BEE2_CLEAN.desc
+#: items/PLANTS/BEE2_CLEAN_ORIGINAL.desc items/PLANTS/BEE2_OVERGROWN.desc items/PLANTS/BEE2_PORTAL_1.desc items/PLANTS/Baby
+#: Blue Style.desc items/PLANTS/Black Style.desc items/PLANTS/Blue Style.desc items/PLANTS/Brown Style.desc
+#: items/PLANTS/DDS_CAVE_STYLE.desc items/PLANTS/DDS_DEV_STYLE.desc items/PLANTS/DDS_GMOD_STYLE.desc items/PLANTS/Dark
+#: Green Style.desc items/PLANTS/Gray Style.desc items/PLANTS/Hot Pink Style.desc items/PLANTS/Light Blue Style.desc
+#: items/PLANTS/Lime Green Style.desc items/PLANTS/Neon Green Style.desc items/PLANTS/Orange Style.desc items/PLANTS/Pink
+#: Style.desc items/PLANTS/Purple Style.desc items/PLANTS/Red Style.desc items/PLANTS/SUBSTYLE_CAVE_STYLE.desc
+#: items/PLANTS/SUBSTYLE_DEV_STYLE.desc items/PLANTS/SUBSTYLE_GMOD_STYLE.desc items/PLANTS/Tangerine Style.desc
+#: items/PLANTS/White Style.desc items/PLANTS/Yellow Style.desc items/PLANTS/cummywummystyley.desc items/PLANTS/dds2.desc
+msgid ""
+"Plants and fungi for overgrown style. Use the timer widget to select the plant/fungi.\n"
+"\n"
+"* __03__: Bush\n"
+"* __04__: Small Vines\n"
+"* __05__: Large Vines\n"
+"* __06__: Moss Floor\n"
+"* __07__: Moss Bottom-Wall\n"
+"* __08__: Mushrooms on Wall"
+msgstr ""
+
+#: items/CAMERA/Aqua Style.desc items/CAMERA/BEE2_1950s.desc items/CAMERA/BEE2_1960s.desc items/CAMERA/BEE2_1970s.desc
+#: items/CAMERA/BEE2_1980s.desc items/CAMERA/BEE2_BTS.desc items/CAMERA/BEE2_CLEAN.desc
+#: items/CAMERA/BEE2_CLEAN_ORIGINAL.desc items/CAMERA/BEE2_OVERGROWN.desc items/CAMERA/BEE2_PORTAL_1.desc items/CAMERA/Baby
+#: Blue Style.desc items/CAMERA/Black Style.desc items/CAMERA/Blue Style.desc items/CAMERA/Brown Style.desc
+#: items/CAMERA/DDS_CAVE_STYLE.desc items/CAMERA/DDS_DEV_STYLE.desc items/CAMERA/DDS_GMOD_STYLE.desc items/CAMERA/Dark
+#: Green Style.desc items/CAMERA/Gray Style.desc items/CAMERA/Hot Pink Style.desc items/CAMERA/Light Blue Style.desc
+#: items/CAMERA/Lime Green Style.desc items/CAMERA/Neon Green Style.desc items/CAMERA/Orange Style.desc items/CAMERA/Pink
+#: Style.desc items/CAMERA/Purple Style.desc items/CAMERA/Red Style.desc items/CAMERA/SUBSTYLE_CAVE_STYLE.desc
+#: items/CAMERA/SUBSTYLE_DEV_STYLE.desc items/CAMERA/SUBSTYLE_GMOD_STYLE.desc items/CAMERA/Tangerine Style.desc
+#: items/CAMERA/White Style.desc items/CAMERA/Yellow Style.desc items/CAMERA/cummywummystyley.desc items/CAMERA/dds2.desc
+msgid ""
+"Security camera that looks at the player. Can be detached from the wall with a portal. Use the timer widget to rotate"
+" the camera and select its style.\n"
+"\n"
+"* __03__: Clean Bottom | __04__: Clean Top\n"
+"* __05__: Clean Left | __06__: Clean Right\n"
+"* __07__: Overgrown Bottom | __08__: Overgrown Top\n"
+"* __09__: Overgrown Left | __10__: Overgrown Right"
+msgstr ""
+
+#: items/CRATE/Aqua Style.name items/CRATE/BEE2_1950s.name items/CRATE/BEE2_1960s.name items/CRATE/BEE2_1970s.name
+#: items/CRATE/BEE2_1980s.name items/CRATE/BEE2_BTS.name items/CRATE/BEE2_CLEAN.name items/CRATE/BEE2_CLEAN_ORIGINAL.name
+#: items/CRATE/BEE2_OVERGROWN.name items/CRATE/BEE2_PORTAL_1.name items/CRATE/Baby Blue Style.name items/CRATE/Black
+#: Style.name items/CRATE/Blue Style.name items/CRATE/Brown Style.name items/CRATE/DDS_CAVE_STYLE.name
+#: items/CRATE/DDS_DEV_STYLE.name items/CRATE/DDS_GMOD_STYLE.name items/CRATE/Dark Green Style.name items/CRATE/Gray
+#: Style.name items/CRATE/Hot Pink Style.name items/CRATE/Light Blue Style.name items/CRATE/Lime Green Style.name
+#: items/CRATE/Neon Green Style.name items/CRATE/Orange Style.name items/CRATE/Pink Style.name items/CRATE/Purple
+#: Style.name items/CRATE/Red Style.name items/CRATE/SUBSTYLE_CAVE_STYLE.name items/CRATE/SUBSTYLE_DEV_STYLE.name
+#: items/CRATE/SUBSTYLE_GMOD_STYLE.name items/CRATE/Tangerine Style.name items/CRATE/White Style.name items/CRATE/Yellow
+#: Style.name items/CRATE/cummywummystyley.name items/CRATE/dds2.name
+msgid "VERTICAL CRATE"
+msgstr ""
+
+#: items/CRATE/Aqua Style.name items/CRATE/BEE2_1950s.name items/CRATE/BEE2_1960s.name items/CRATE/BEE2_1970s.name
+#: items/CRATE/BEE2_1980s.name items/CRATE/BEE2_BTS.name items/CRATE/BEE2_CLEAN.name items/CRATE/BEE2_CLEAN_ORIGINAL.name
+#: items/CRATE/BEE2_OVERGROWN.name items/CRATE/BEE2_PORTAL_1.name items/CRATE/Baby Blue Style.name items/CRATE/Black
+#: Style.name items/CRATE/Blue Style.name items/CRATE/Brown Style.name items/CRATE/DDS_CAVE_STYLE.name
+#: items/CRATE/DDS_DEV_STYLE.name items/CRATE/DDS_GMOD_STYLE.name items/CRATE/Dark Green Style.name items/CRATE/Gray
+#: Style.name items/CRATE/Hot Pink Style.name items/CRATE/Light Blue Style.name items/CRATE/Lime Green Style.name
+#: items/CRATE/Neon Green Style.name items/CRATE/Orange Style.name items/CRATE/Pink Style.name items/CRATE/Purple
+#: Style.name items/CRATE/Red Style.name items/CRATE/SUBSTYLE_CAVE_STYLE.name items/CRATE/SUBSTYLE_DEV_STYLE.name
+#: items/CRATE/SUBSTYLE_GMOD_STYLE.name items/CRATE/Tangerine Style.name items/CRATE/White Style.name items/CRATE/Yellow
+#: Style.name items/CRATE/cummywummystyley.name items/CRATE/dds2.name
+msgid "VERTICAL ROTATED CRATE"
+msgstr ""
+
+#: items/CRATE/Aqua Style.pal_name items/CRATE/BEE2_1950s.pal_name items/CRATE/BEE2_1960s.pal_name
+#: items/CRATE/BEE2_1970s.pal_name items/CRATE/BEE2_1980s.pal_name items/CRATE/BEE2_BTS.pal_name
+#: items/CRATE/BEE2_CLEAN.pal_name items/CRATE/BEE2_CLEAN_ORIGINAL.pal_name items/CRATE/BEE2_OVERGROWN.pal_name
+#: items/CRATE/BEE2_PORTAL_1.pal_name items/CRATE/Baby Blue Style.pal_name items/CRATE/Black Style.pal_name
+#: items/CRATE/Blue Style.pal_name items/CRATE/Brown Style.pal_name items/CRATE/DDS_CAVE_STYLE.pal_name
+#: items/CRATE/DDS_DEV_STYLE.pal_name items/CRATE/DDS_GMOD_STYLE.pal_name items/CRATE/Dark Green Style.pal_name
+#: items/CRATE/Gray Style.pal_name items/CRATE/Hot Pink Style.pal_name items/CRATE/Light Blue Style.pal_name
+#: items/CRATE/Lime Green Style.pal_name items/CRATE/Neon Green Style.pal_name items/CRATE/Orange Style.pal_name
+#: items/CRATE/Pink Style.pal_name items/CRATE/Purple Style.pal_name items/CRATE/Red Style.pal_name
+#: items/CRATE/SUBSTYLE_CAVE_STYLE.pal_name items/CRATE/SUBSTYLE_DEV_STYLE.pal_name
+#: items/CRATE/SUBSTYLE_GMOD_STYLE.pal_name items/CRATE/Tangerine Style.pal_name items/CRATE/White Style.pal_name
+#: items/CRATE/Yellow Style.pal_name items/CRATE/cummywummystyley.pal_name items/CRATE/dds2.pal_name
+msgid "Vertical Crate"
+msgstr ""
+
+#: items/CRATE/Aqua Style.pal_name items/CRATE/BEE2_1950s.pal_name items/CRATE/BEE2_1960s.pal_name
+#: items/CRATE/BEE2_1970s.pal_name items/CRATE/BEE2_1980s.pal_name items/CRATE/BEE2_BTS.pal_name
+#: items/CRATE/BEE2_CLEAN.pal_name items/CRATE/BEE2_CLEAN_ORIGINAL.pal_name items/CRATE/BEE2_OVERGROWN.pal_name
+#: items/CRATE/BEE2_PORTAL_1.pal_name items/CRATE/Baby Blue Style.pal_name items/CRATE/Black Style.pal_name
+#: items/CRATE/Blue Style.pal_name items/CRATE/Brown Style.pal_name items/CRATE/DDS_CAVE_STYLE.pal_name
+#: items/CRATE/DDS_DEV_STYLE.pal_name items/CRATE/DDS_GMOD_STYLE.pal_name items/CRATE/Dark Green Style.pal_name
+#: items/CRATE/Gray Style.pal_name items/CRATE/Hot Pink Style.pal_name items/CRATE/Light Blue Style.pal_name
+#: items/CRATE/Lime Green Style.pal_name items/CRATE/Neon Green Style.pal_name items/CRATE/Orange Style.pal_name
+#: items/CRATE/Pink Style.pal_name items/CRATE/Purple Style.pal_name items/CRATE/Red Style.pal_name
+#: items/CRATE/SUBSTYLE_CAVE_STYLE.pal_name items/CRATE/SUBSTYLE_DEV_STYLE.pal_name
+#: items/CRATE/SUBSTYLE_GMOD_STYLE.pal_name items/CRATE/Tangerine Style.pal_name items/CRATE/White Style.pal_name
+#: items/CRATE/Yellow Style.pal_name items/CRATE/cummywummystyley.pal_name items/CRATE/dds2.pal_name
+msgid "Vertical Rotated Crate"
+msgstr ""
+
+#: items/WALL1/Aqua Style.pal_name items/WALL1/BEE2_1950s.pal_name items/WALL1/BEE2_1960s.pal_name
+#: items/WALL1/BEE2_1970s.pal_name items/WALL1/BEE2_1980s.pal_name items/WALL1/BEE2_BTS.pal_name
+#: items/WALL1/BEE2_CLEAN.pal_name items/WALL1/BEE2_CLEAN_ORIGINAL.pal_name items/WALL1/BEE2_OVERGROWN.pal_name
+#: items/WALL1/BEE2_PORTAL_1.pal_name items/WALL1/Baby Blue Style.pal_name items/WALL1/Black Style.pal_name
+#: items/WALL1/Blue Style.pal_name items/WALL1/Brown Style.pal_name items/WALL1/DDS_CAVE_STYLE.pal_name
+#: items/WALL1/DDS_DEV_STYLE.pal_name items/WALL1/DDS_GMOD_STYLE.pal_name items/WALL1/Dark Green Style.pal_name
+#: items/WALL1/Gray Style.pal_name items/WALL1/Hot Pink Style.pal_name items/WALL1/Light Blue Style.pal_name
+#: items/WALL1/Lime Green Style.pal_name items/WALL1/Neon Green Style.pal_name items/WALL1/Orange Style.pal_name
+#: items/WALL1/Pink Style.pal_name items/WALL1/Purple Style.pal_name items/WALL1/Red Style.pal_name
+#: items/WALL1/SUBSTYLE_CAVE_STYLE.pal_name items/WALL1/SUBSTYLE_DEV_STYLE.pal_name
+#: items/WALL1/SUBSTYLE_GMOD_STYLE.pal_name items/WALL1/Tangerine Style.pal_name items/WALL1/White Style.pal_name
+#: items/WALL1/Yellow Style.pal_name items/WALL1/cummywummystyley.pal_name items/WALL1/dds2.pal_name
+msgid "WALL1"
+msgstr ""
+
+#: items/WALL1/Aqua Style.desc items/WALL1/BEE2_1950s.desc items/WALL1/BEE2_1960s.desc items/WALL1/BEE2_1970s.desc
+#: items/WALL1/BEE2_1980s.desc items/WALL1/BEE2_BTS.desc items/WALL1/BEE2_CLEAN.desc items/WALL1/BEE2_CLEAN_ORIGINAL.desc
+#: items/WALL1/BEE2_OVERGROWN.desc items/WALL1/BEE2_PORTAL_1.desc items/WALL1/Baby Blue Style.desc items/WALL1/Black
+#: Style.desc items/WALL1/Blue Style.desc items/WALL1/Brown Style.desc items/WALL1/DDS_CAVE_STYLE.desc
+#: items/WALL1/DDS_DEV_STYLE.desc items/WALL1/DDS_GMOD_STYLE.desc items/WALL1/Dark Green Style.desc items/WALL1/Gray
+#: Style.desc items/WALL1/Hot Pink Style.desc items/WALL1/Light Blue Style.desc items/WALL1/Lime Green Style.desc
+#: items/WALL1/Neon Green Style.desc items/WALL1/Orange Style.desc items/WALL1/Pink Style.desc items/WALL1/Purple
+#: Style.desc items/WALL1/Red Style.desc items/WALL1/SUBSTYLE_CAVE_STYLE.desc items/WALL1/SUBSTYLE_DEV_STYLE.desc
+#: items/WALL1/SUBSTYLE_GMOD_STYLE.desc items/WALL1/Tangerine Style.desc items/WALL1/White Style.desc items/WALL1/Yellow
+#: Style.desc items/WALL1/cummywummystyley.desc items/WALL1/dds2.desc
+msgid ""
+"Wall textures. Use timer widget to select the texture.\n"
+"\n"
+"* __03__: Portal 1 Wall\n"
+"* __04__: Clean Floor"
+msgstr ""
+
+#: items/JOKE_TURRET/Aqua Style.desc items/JOKE_TURRET/BEE2_1950s.desc items/JOKE_TURRET/BEE2_1960s.desc
+#: items/JOKE_TURRET/BEE2_1970s.desc items/JOKE_TURRET/BEE2_1980s.desc items/JOKE_TURRET/BEE2_BTS.desc
+#: items/JOKE_TURRET/BEE2_CLEAN.desc items/JOKE_TURRET/BEE2_CLEAN_ORIGINAL.desc items/JOKE_TURRET/BEE2_OVERGROWN.desc
+#: items/JOKE_TURRET/BEE2_PORTAL_1.desc items/JOKE_TURRET/Baby Blue Style.desc items/JOKE_TURRET/Black Style.desc
+#: items/JOKE_TURRET/Blue Style.desc items/JOKE_TURRET/Brown Style.desc items/JOKE_TURRET/DDS_CAVE_STYLE.desc
+#: items/JOKE_TURRET/DDS_DEV_STYLE.desc items/JOKE_TURRET/DDS_GMOD_STYLE.desc items/JOKE_TURRET/Dark Green Style.desc
+#: items/JOKE_TURRET/Gray Style.desc items/JOKE_TURRET/Hot Pink Style.desc items/JOKE_TURRET/Light Blue Style.desc
+#: items/JOKE_TURRET/Lime Green Style.desc items/JOKE_TURRET/Neon Green Style.desc items/JOKE_TURRET/Orange Style.desc
+#: items/JOKE_TURRET/Pink Style.desc items/JOKE_TURRET/Purple Style.desc items/JOKE_TURRET/Red Style.desc
+#: items/JOKE_TURRET/SUBSTYLE_CAVE_STYLE.desc items/JOKE_TURRET/SUBSTYLE_DEV_STYLE.desc
+#: items/JOKE_TURRET/SUBSTYLE_GMOD_STYLE.desc items/JOKE_TURRET/Tangerine Style.desc items/JOKE_TURRET/White Style.desc
+#: items/JOKE_TURRET/Yellow Style.desc items/JOKE_TURRET/cummywummystyley.desc items/JOKE_TURRET/dds2.desc
+msgid ""
+"With 'Start Reversed' unchecked the Turret wont have ammo, With 'start reversed' checked the turret will sing upon "
+"seeing a player\n"
+msgstr ""
+
+#: items/OBSERVATION_ROOM_SETUP/Aqua Style.desc items/OBSERVATION_ROOM_SETUP/BEE2_1950s.desc
+#: items/OBSERVATION_ROOM_SETUP/BEE2_1960s.desc items/OBSERVATION_ROOM_SETUP/BEE2_1970s.desc
+#: items/OBSERVATION_ROOM_SETUP/BEE2_1980s.desc items/OBSERVATION_ROOM_SETUP/BEE2_BTS.desc
+#: items/OBSERVATION_ROOM_SETUP/BEE2_CLEAN.desc items/OBSERVATION_ROOM_SETUP/BEE2_CLEAN_ORIGINAL.desc
+#: items/OBSERVATION_ROOM_SETUP/BEE2_OVERGROWN.desc items/OBSERVATION_ROOM_SETUP/BEE2_PORTAL_1.desc
+#: items/OBSERVATION_ROOM_SETUP/Baby Blue Style.desc items/OBSERVATION_ROOM_SETUP/Black Style.desc
+#: items/OBSERVATION_ROOM_SETUP/Blue Style.desc items/OBSERVATION_ROOM_SETUP/Brown Style.desc
+#: items/OBSERVATION_ROOM_SETUP/DDS_CAVE_STYLE.desc items/OBSERVATION_ROOM_SETUP/DDS_DEV_STYLE.desc
+#: items/OBSERVATION_ROOM_SETUP/DDS_GMOD_STYLE.desc items/OBSERVATION_ROOM_SETUP/Dark Green Style.desc
+#: items/OBSERVATION_ROOM_SETUP/Gray Style.desc items/OBSERVATION_ROOM_SETUP/Hot Pink Style.desc
+#: items/OBSERVATION_ROOM_SETUP/Light Blue Style.desc items/OBSERVATION_ROOM_SETUP/Lime Green Style.desc
+#: items/OBSERVATION_ROOM_SETUP/Neon Green Style.desc items/OBSERVATION_ROOM_SETUP/Orange Style.desc
+#: items/OBSERVATION_ROOM_SETUP/Pink Style.desc items/OBSERVATION_ROOM_SETUP/Purple Style.desc
+#: items/OBSERVATION_ROOM_SETUP/Red Style.desc items/OBSERVATION_ROOM_SETUP/SUBSTYLE_CAVE_STYLE.desc
+#: items/OBSERVATION_ROOM_SETUP/SUBSTYLE_DEV_STYLE.desc items/OBSERVATION_ROOM_SETUP/SUBSTYLE_GMOD_STYLE.desc
+#: items/OBSERVATION_ROOM_SETUP/Tangerine Style.desc items/OBSERVATION_ROOM_SETUP/White Style.desc
+#: items/OBSERVATION_ROOM_SETUP/Yellow Style.desc items/OBSERVATION_ROOM_SETUP/cummywummystyley.desc
+#: items/OBSERVATION_ROOM_SETUP/dds2.desc
+msgid ""
+"__PLEASE PLACE THIS ON A WALL__\n"
+"\n"
+"A PC that is commonly seen in the observation room"
+msgstr ""
+
+#: items/WALL1/Aqua Style.name items/WALL1/BEE2_1950s.name items/WALL1/BEE2_1960s.name items/WALL1/BEE2_1970s.name
+#: items/WALL1/BEE2_1980s.name items/WALL1/BEE2_BTS.name items/WALL1/BEE2_CLEAN.name items/WALL1/BEE2_CLEAN_ORIGINAL.name
+#: items/WALL1/BEE2_OVERGROWN.name items/WALL1/BEE2_PORTAL_1.name items/WALL1/Baby Blue Style.name items/WALL1/Black
+#: Style.name items/WALL1/Blue Style.name items/WALL1/Brown Style.name items/WALL1/DDS_CAVE_STYLE.name
+#: items/WALL1/DDS_DEV_STYLE.name items/WALL1/DDS_GMOD_STYLE.name items/WALL1/Dark Green Style.name items/WALL1/Gray
+#: Style.name items/WALL1/Hot Pink Style.name items/WALL1/Light Blue Style.name items/WALL1/Lime Green Style.name
+#: items/WALL1/Neon Green Style.name items/WALL1/Orange Style.name items/WALL1/Pink Style.name items/WALL1/Purple
+#: Style.name items/WALL1/Red Style.name items/WALL1/SUBSTYLE_CAVE_STYLE.name items/WALL1/SUBSTYLE_DEV_STYLE.name
+#: items/WALL1/SUBSTYLE_GMOD_STYLE.name items/WALL1/Tangerine Style.name items/WALL1/White Style.name items/WALL1/Yellow
+#: Style.name items/WALL1/cummywummystyley.name items/WALL1/dds2.name
+msgid "wall1"
+msgstr ""
+

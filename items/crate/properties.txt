@@ -2,7 +2,7 @@
 "Properties" {
 	"Authors" "Drgregs"
 	"all_name"		"CRATES"
-	"all_icon"		"drgregs/allcrate.vtf"
+	"all_icon"		"palette/drgregs/allcrate.vtf"
 	"Icon"
 		{
 			"all"	"drgregs/allcrate.vtf"
