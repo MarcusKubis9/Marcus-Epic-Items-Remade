@@ -8,7 +8,7 @@
 		""  " "
 		""  "* __Weighted__ is portal 1 wall non-portalable"
 		""  "* __Companion__ is portal 2 wall non-portalable"
-		""  "* __Reflection__ is portal 1 overgrown texture"
+		""  "* __Reflection__ is portal 1 overgrown texture/portal 1 goo texture"
 		""  "* __Edgeless__ is  portal 1 wall portalable"
 		""  "* __Franken__ is  portal 2 wall portalable"
 	}

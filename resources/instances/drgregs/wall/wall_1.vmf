@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "9672"
-	"mapversion" "17"
+	"mapversion" "18"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "17"
+	"mapversion" "18"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -45,8 +45,8 @@ entity
 			"id" "268"
 			"plane" "(-64 64 -63) (64 64 -63) (64 -64 -63)"
 			"material" "METAL/BLACK_WALL_METAL_004D"
-			"uaxis" "[1 0 0 512] 0.125"
-			"vaxis" "[0 -1 0 512] 0.125"
+			"uaxis" "[1 0 0 196] 0.33"
+			"vaxis" "[0 -1 0 -196] 0.33"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -56,8 +56,8 @@ entity
 			"id" "267"
 			"plane" "(-64 -64 -64) (64 -64 -64) (64 64 -64)"
 			"material" "METAL/BLACK_WALL_METAL_004D"
-			"uaxis" "[1 0 0 512] 0.125"
-			"vaxis" "[0 -1 0 512] 0.125"
+			"uaxis" "[1 0 0 196] 0.33"
+			"vaxis" "[0 -1 0 -196] 0.33"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -66,9 +66,9 @@ entity
 		{
 			"id" "266"
 			"plane" "(-64 64 -63) (-64 -64 -63) (-64 -64 -64)"
-			"material" "METAL/BLACK_WALL_METAL_004D"
-			"uaxis" "[0 1 0 -265] 0.25"
-			"vaxis" "[0 0 -1 784] 0.25"
+			"material" "METAL/UNDERGROUND_METAL_CORRUGATED001"
+			"uaxis" "[0 1 0 -265] 1.25"
+			"vaxis" "[0 0 -1 272] 1.05"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -77,7 +77,7 @@ entity
 		{
 			"id" "265"
 			"plane" "(64 64 -64) (64 -64 -64) (64 -64 -63)"
-			"material" "METAL/UNDERGROUND_METAL_CORRUGATED001"
+			"material" "METAL/BLACK_WALL_METAL_004D"
 			"uaxis" "[0 1 0 -280] 7.75"
 			"vaxis" "[0 0 -1 233] 0.25"
 			"rotation" "0"
