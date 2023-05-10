@@ -2,7 +2,7 @@
 #
 # MEI is a custom item package that adds new items to Beemod, Mostly decor
 
-Version: 1.0.0
+# Version: 1.0.0
 
 ## Items:
 
